@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-23
+Last sync is 2026-02-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11916,6 +11916,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Guess|Wear|glowlight|GUESS Connect|
 |Guophone|X3|X3|X3|
 |Guophone|XP9800|Guophone_XP9800|XP9800|
+|H(tab)|H_Tab_Go|H_Tab_Go|H_Tab_Go|
 |H(tab)|H_Tab_Lite|H_Tab_Lite|H_Tab_Lite|
 |H(tab)|H_tab_1|H_tab_1|H_tab_1|
 |H(tab)|H_tab_1Pro|H_tab_1Pro|H_tab_1Pro|
@@ -13523,10 +13524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|4K TV|songshan|SmartTV 4K|
 |Hisense|4K TV|songshan|SmartTV 4K FFM|
 |Hisense|55H6SG|Vision|Vision|
-|Hisense|65MR6DE|huanghe|HIDB 4K|
 |Hisense|700T|HSSDM660QC|HLTE700T|
-|Hisense|75MR6DE|changjiang|HIDB 4K|
-|Hisense|86MR6DE|huaihe|HIDB 4K|
 |Hisense|9980|taishan|SmartTV 8K FFM|
 |Hisense|A2|HS8937QC|Hisense A2|
 |Hisense|A2M|HS8953QC|Hisense A2M|
@@ -13649,6 +13647,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|G1|G1|G1|
 |Hisense|G2-3GP|G2-3GP|G2-3GP|
 |Hisense|G610M|G610M|Hisense G610M|
+|Hisense|Goboard Series|changjiang|HIDB 4K|
+|Hisense|Goboard Series|huaihe|HIDB 4K|
+|Hisense|Goboard Series|huanghe|HIDB 4K|
 |Hisense|H5500F|harajuku|HiSmart 2K ATV4|
 |Hisense|H800T|H800T|HS-H800T|
 |Hisense|H910|HS8929QC|Hisense H910|
@@ -44367,6 +44368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unitech|WD200 Plus|WD200P|WD200P|
 |United Group|KSTB6020|KSTB6020|KSTB6020|
 |UnityWireless|EPIC E55|EPIC-E55|EPIC-E55|
+|Univision|Univision S800|SEI800UV|Univision S800|
 |Unnecto|Bolt 1U|Bolt_1U|Bolt 1U|
 |Unnecto|Bolt1|Bolt1|Bolt 1|
 |Unnecto|QUATTRO_M-3|QUATTRO_M-3|QUATTRO_M-3|
@@ -51540,6 +51542,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|V70|V2538|V2539|
 |vivo|V70|V2538|V2540|
 |vivo|V70 Elite|V2548|V2548|
+|vivo|V70 FE|V2550|V2550|
+|vivo|V70 FE|V2550|V2551|
+|vivo|V70 FE|V2550|V2552|
+|vivo|V70 FE|V2550|V2558|
 |vivo|X Fold5|PD2436|V2436A|
 |vivo|X Fold5|V2429|V2429|
 |vivo|X200 FE|V2503|V2503|
