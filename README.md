@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-25
+Last sync is 2026-02-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -776,6 +776,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer Iconia Tab iM10-22|AITiM10-22|Acer Iconia Tab iM10-22|
 |Acer|Acer Iconia Tab iM11-12M|iM11-12M|Acer Iconia Tab iM11-12M|
 |Acer|Acer Iconia Tab iM9-12M|AITiM9-12M|Acer lconia Tab iM9-12M|
+|Acer|Acer Iconia iM11-22M5G|iM11-22M5G|Acer Iconia iM11-22M5G|
 |Acer|Acer One 10 T4-129L|AcerO10T4129L|Acer One 10 T4-129L|
 |Acer|Acer One 10 T4-129L|AcerOne10T4129LIx|Acer One 10 T4-129LIx|
 |Acer|Acer One 10 T4-129LI|AcerO10T412LI|Acer One 10 T4-129LI|
@@ -788,6 +789,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer One 8 T9-422L|AcerOne8T9-422L|Acer One 8 T9-422L|
 |Acer|Acer One T10-22L|AOT10-22L|Acer One T10-22L|
 |Acer|Acer One T11-22L|AOT11-22L|Acer One T11-22L|
+|Acer|Acer One T11-22L-5G|T11-22L-5G|Acer One T11-22L-5G|
 |Acer|Acer education whiteboard|DT3K_F|DT3K_F|
 |Acer|Acer_A6|Acer_A6|A6|
 |Acer|Acer_A60|Acer_A60|A60|
@@ -7776,6 +7778,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daewoo|DAEWOO AI SMART TV|beomil|DAEWOO AI SMART TV|
 |Daewoo|DAEWOO AI SMART TV|eleonas|DAEWOO AI SMART TV|
 |Daewoo|DAEWOO SMART TV|SW6H|DAEWOO SMART TV|
+|Daewoo|DAEWOO SMART TV|eleonas|DAEWOO SMART TV|
 |Daewoo|DAEWOO SMART TV|sunnyvale|DAEWOO SMART TV|
 |Daewoo|DAEWOO SMART TV WF|SW6H|DAEWOO SMART TV WF|
 |Daewoo|DW-TN7RK16|DW-TN7RK16|DW-TN7RK16|
@@ -17143,6 +17146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Indurama|Indurama|mountbaker|INDURAMA GOOGLE TV|
 |Indurama|Indurama|stanford|CSV2K|
 |Indurama|Indurama|zhongshan|CSV4K|
+|Indurama|Indurama 4K smart TV|eleonas|Indurama 4K smart TV|
 |Indurama|indurama 2K TV|shinjuku|indurama 2K TV|
 |Indurama|indurama 4K TV|SW4H|indurama 4K TV|
 |Indurama|indurama Smart TV|sunnyvale|indurama Smart TV|
@@ -19178,6 +19182,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Element Play|ELEMENT_PLAY|ELEMENT PLAY|
 |Kalley|Gold Pro|GOLD_PRO|GOLD_PRO|
 |Kalley|K-BOOK73G|K_BOOK73G|K-BOOK73G|
+|Kalley|Kalley TV|beomil|Kalley TV|
+|Kalley|Kalley TV|eleonas|Kalley TV|
 |Kalley|Kalley TV|katehaki|Kalley TV|
 |Kalley|Kalley_FlexTab_11|Kalley_FlexTab_11|Kalley_FlexTab 11|
 |Kalley|Klic|SA|K4-02 4G|
@@ -25710,6 +25716,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Motorola Android 9.0 TV|shibuya|FlipkartTV|
 |Motorola|Motorola Defy|bathena|Motorola Defy|
 |Motorola|Motorola Defy 2|BM2S1E|Defy 2|
+|Motorola|Motorola TV|beomil|Motorola TV|
+|Motorola|Motorola TV|eleonas|Motorola TV|
+|Motorola|Motorola TV FF|eleonas|Motorola TV FF|
 |Motorola|Motorola one|deen_sprout|motorola one|
 |Motorola|MotorolaTV|hayward|MotorolaTV|
 |Motorola|Motosmart|XT389|XT389|
@@ -25843,6 +25852,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g power (XT2041DL)|sofia|moto g power (XT2041DL)|
 |Motorola|moto g power - 2025|vegas|moto g power - 2025|
 |Motorola|moto g power - 2025|vegas|moto g power 5G - 2024|
+|Motorola|moto g power - 2026|vegas26|moto g power - 2025|
+|Motorola|moto g power - 2026|vegas26|moto g power - 2026|
 |Motorola|moto g power 5G - 2023|devonn|moto g power 5G - 2023|
 |Motorola|moto g power 5G - 2023|devonn|moto g(50) 5G|
 |Motorola|moto g power 5G - 2024|cancunn|moto g power 5G - 2023|
@@ -26015,6 +26026,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g73 5G|devonf|moto g(50) 5G|
 |Motorola|moto g73 5G|devonf|moto g73 5G|
 |Motorola|moto g75 5G|sorap|moto g75 5G|
+|Motorola|moto g77|naples|moto g - 2025|
+|Motorola|moto g77|naples|moto g77|
 |Motorola|moto g82 5G|rhodep|XT2169-2|
 |Motorola|moto g82 5G|rhodep|XT2225-2|
 |Motorola|moto g82 5G|rhodep|moto g71 5G|
@@ -30506,6 +30519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|S6133S|S6133S|S6133S|
 |Philips|S7210|S7210|S7210|
 |Philips|S7220|S7220|S7220|
+|Philips|S8300|S8300|S8300|
 |Philips|Smart TV|dangni|SWTV|
 |Philips|Smart TV|guui|PHILIPS 4k TV|
 |Philips|Smart TV|hino|PHILIPS TV|
@@ -32292,6 +32306,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |REDLINE|Space_A18|Space_A8|Space_A8|
 |REDLINE|Space_M10|Space_M10|Space_M10|
 |REDLINE|Space_M10Pro|Space_M10Pro|Space_M10Pro|
+|REDMAGIC|NX799J|NX799J|NX799J|
 |REDMAGIC|REDMAGIC 11 Pro+|NX809J|NX809J|
 |REDTONE|RTSP-A124ML|RTSP-A124ML|RTSP-A124ML|
 |REDTONE|RTSP-A258HM|RTSP-A258HM|RTSP-A258HM|
@@ -32479,6 +32494,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|真我GT Neo 闪速版|RE5469|RMX3350|
 |Realme|真我GT Neo2T|RE5469|RMX3357|
 |Realme|真我V11s 5G|RE5485|RMX3125|
+|Realme Techlife|Realme TV|beomil|Realme TV|
+|Realme Techlife|Realme TV|eleonas|Realme TV|
+|Realme Techlife|Realme TV FF|eleonas|Realme TV FF|
 |Realtek|RealtekHank|RealtekHank|RealtekHank|
 |Realtek|RealtekThor|RealtekThor|RealtekThor|
 |Realtime|RS405|RS405|RS405|
@@ -36058,6 +36076,34 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S25+|pa2q|SM-S936U|
 |Samsung|Galaxy S25+|pa2q|SM-S936U1|
 |Samsung|Galaxy S25+|pa2q|SM-S936W|
+|Samsung|Galaxy S26|m1q|SC-51G|
+|Samsung|Galaxy S26|m1q|SCG36|
+|Samsung|Galaxy S26|m1q|SM-S9420|
+|Samsung|Galaxy S26|m1q|SM-S942C|
+|Samsung|Galaxy S26|m1q|SM-S942Q|
+|Samsung|Galaxy S26|m1q|SM-S942U|
+|Samsung|Galaxy S26|m1q|SM-S942U1|
+|Samsung|Galaxy S26|m1q|SM-S942W|
+|Samsung|Galaxy S26|m1q|SM-S942Z|
+|Samsung|Galaxy S26 Ultra|m3q|SC-53G|
+|Samsung|Galaxy S26 Ultra|m3q|SCG37|
+|Samsung|Galaxy S26 Ultra|m3q|SM-S9480|
+|Samsung|Galaxy S26 Ultra|m3q|SM-S948B|
+|Samsung|Galaxy S26 Ultra|m3q|SM-S948C|
+|Samsung|Galaxy S26 Ultra|m3q|SM-S948N|
+|Samsung|Galaxy S26 Ultra|m3q|SM-S948Q|
+|Samsung|Galaxy S26 Ultra|m3q|SM-S948U1|
+|Samsung|Galaxy S26 Ultra|m3q|SM-S948W|
+|Samsung|Galaxy S26 Ultra|m3q|SM-S948Z|
+|Samsung|Galaxy S26+|m2q|SC-52G|
+|Samsung|Galaxy S26+|m2q|SCG38|
+|Samsung|Galaxy S26+|m2q|SM-S9470|
+|Samsung|Galaxy S26+|m2q|SM-S947C|
+|Samsung|Galaxy S26+|m2q|SM-S947Q|
+|Samsung|Galaxy S26+|m2q|SM-S947U|
+|Samsung|Galaxy S26+|m2q|SM-S947U1|
+|Samsung|Galaxy S26+|m2q|SM-S947W|
+|Samsung|Galaxy S26+|m2q|SM-S947Z|
 |Samsung|Galaxy S3|SC-03E|SC-03E|
 |Samsung|Galaxy S3|c1att|SGH-I748|
 |Samsung|Galaxy S3|c1ktt|SHV-E210K|
@@ -37815,6 +37861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS-TVL23A|SW6H|AQUOS-TVL23A|
 |Sharp|AQUOS-TVL23B|umeda|AQUOS-TVL23B|
 |Sharp|AQUOS-TVN23A|SW6H|AQUOS-TVN23A|
+|Sharp|AQUOS-TVX26A|eleonas|AQUOS-TVX26A|
 |Sharp|Android One S1|kaleido_sprout|S1|
 |Sharp|B10|SH-A01|SH-A01|
 |Sharp|BASIO active|DQO|SHG09|
@@ -49761,6 +49808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia A75|Z6255|Z6255CA|
 |ZTE|nubia A76|P615F01|Z2474|
 |ZTE|nubia A76|Z6657|Z6657CA|
+|ZTE|nubia A76 5G|P780F03|Z2469N|
 |ZTE|nubia Air|P780F02|Z2468N|
 |ZTE|nubia Flip 2 5G|P678F01|NX732J|
 |ZTE|nubia Flip 2 5G|Z8900|Z8900CA|
