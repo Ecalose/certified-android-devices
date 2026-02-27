@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-26
+Last sync is 2026-02-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7884,6 +7884,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dany|Signature-S8|Signature-S8|Signature-S8|
 |Daria|hormoz|hormoz|DM-B70104|
 |Daria|huma|huma|DM-B70104|
+|Daria|lavan|lavan|DM-B70204|
 |Daria|qoqnoos|qoqnoos|DM-B51104|
 |Daria|zahedan|zahedan|DM-B50104|
 |Datalogic|Datalogic MEMOR 10|dl35|MEMOR 10|
@@ -8227,6 +8228,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digit|NOTE 14|NOTE_14|NOTE 14|
 |Digit|NOTE 16|NOTE_16|NOTE 16|
 |Digit|NOTE 20|NOTE_20|NOTE 20|
+|Digit|Sonic_One|Sonic_One|Sonic One|
 |Digital2|Deluxe|nuclear-D2_Deluxe|Digital2-Deluxe|
 |Digital2|Platinum|D2-963G|Digital2 Platinum|
 |Digital2|Plus|Digital2Plus|Digital2 Plus|
@@ -14817,6 +14819,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|T5 Pro|T5_Pro|T5 Pro|
 |Hotwav|T7 EEA|T7|T7|
 |Hotwav|T7 Pro EEA|T7_Pro|T7 Pro|
+|Hotwav|T8|T8|T8|
 |Hotwav|TAB R11 Pro|TAB_R11_Pro|TAB R11 Pro|
 |Hotwav|TAB R5|TAB_R5|TAB R5|
 |Hotwav|TAB R6 Pro|TAB_R6_Pro|TAB R6 Pro|
@@ -22939,6 +22942,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lexibook|Tablet Phone|MFS100|MFS100|
 |Lgcns|LPT_200AR|LPT_200AR|LPT_200AR|
 |Lgcns|LPT_201AR|LPT_201AR|LPT_201AR|
+|LiGHTLIFE|T8|T8|T8|
 |Libre|W101|W101|W101|
 |Libre|W808|W808|W808|
 |Life Stick|LifeStick|ts201|LifeStick|
@@ -30541,6 +30545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|T7315|T7315|T7315|
 |Philips|T7335|T7335|T7335|
 |Philips|T8 PI7000|Tablet_8|PI7000|
+|Philips|T8010A|T8010A|T8010A|
 |Philips|T8015|T8015|T8015|
 |Philips|T8015S|T8015S|T8015S|
 |Philips|TLE722G|TLE722G|TLE722G|
@@ -47089,6 +47094,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Winnovo|TS7|TS7_EEA|TS7_EEA|
 |Winnovo|Winnovo|M8|M8|
 |Winnovo|WinnovoT5|WinnovoT5|WinnovoT5|
+|Winovo|Winovo_M50B|Winovo_M50B|Winovo_M50B|
+|Winovo|Winovo_M50B_EEA|Winovo_M50B|Winovo_M50B|
 |Wintec|T730|T730|Clear|
 |Wintec|T730|T730|T730|
 |Wintec|T750|T750|Clear|
@@ -47533,6 +47540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MiTV|dangal|MiTV-AXSO0|
 |Xiaomi|MiTV|dangalFHD|MiTV-AXSO1|
 |Xiaomi|MiTV|dangalUHD|MiTV-AXSO2|
+|Xiaomi|MiTV|furiosa|MiTV-AXFU1|
 |Xiaomi|MiTV|hermano|MiTV-MOSR0|
 |Xiaomi|MiTV|hermano|MiTV-MOSR1|
 |Xiaomi|MiTV|irobot|MiTV-MOOR1|
@@ -47547,6 +47555,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MiTV|nino|MiTV-MSSP1|
 |Xiaomi|MiTV|rango|MiTV-AXFR1|
 |Xiaomi|MiTV|river|MiTV-MZTU0|
+|Xiaomi|MiTV|stepup|MiTV-MZTU1|
 |Xiaomi|MiTV|tarzan|MiTV-MOOQ1|
 |Xiaomi|MiTV|venom|MiTV-MOOR0|
 |Xiaomi|MiTV|venom|MiTV-MOOR2|
@@ -51203,6 +51212,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX5111|RE6444L1|RMX5111|
 |realme|RMX5200|RE6030L1|RMX5200|
 |realme|RMX5210|RE60C8L1|RMX5210|
+|realme|RMX5250|RE644C|RMX5250|
+|realme|RMX5253|RE644C|RMX5253|
 |realme|RMX5303|RE60B8|RMX5303|
 |realme|RMX5313|RE60BA|RMX5313|
 |realme|Smart TV|mateo|2K PA Smart TV|
@@ -51257,7 +51268,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 15 5G|RE60CDL1|RMX5106|
 |realme|realme 15 Pro 5G|RE60B4L1|RMX5101|
 |realme|realme 15T|RE6444L1|RMX5111|
-|realme|realme 15x 5G|RE644C|RMX5250|
 |realme|realme 16 5G|RE6474L1|RMX5171|
 |realme|realme 16 Pro 5G|RE645DL1|RMX5120|
 |realme|realme 16 Pro+ 5G|RE6458L1|RMX5131|
@@ -51530,6 +51540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |spectramobile|Spectra J2 Pro|Spectra_J2_Pro|Spectra_J2_Pro|
 |spectramobile|SpectraTab1|SpectraTab1|SpectraTab1|
 |stc myhome|myHome|SEI560STC|myHome|
+|stc myhome|stc-tv|HP44J|HP44J-stc-tv-3.0|
 |sugar_aums|QPOINT|QPI-1|QPI-1|
 |t_go(Argentina)|TGO_TB1021|TGO_TB1021|TGO_TB1021|
 |t_go(Argentina)|TGO_TB850iH|TGO_TB850iH|TGO_TB850iH|
