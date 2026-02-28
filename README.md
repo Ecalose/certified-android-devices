@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-27
+Last sync is 2026-02-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -604,6 +604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AZPEN|A780|A780|A780|
 |AZPEN|A780B|A780B|A780B|
 |AZPEN|A780G|A780G|A780G|
+|AZPEN|A780G1|A780G1|A780G|
 |AZPEN|A920|wing-ibt|A920|
 |AZPEN|C-603|C-603|C-603|
 |AZPEN|G680|Blaze_8|G680|
@@ -9658,6 +9659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Epson|ELPAP12|Bushi|STI6110|
 |Epson|Epson|embt4|EMBT4|
 |Epson|HB35|himalaya|HB35|
+|Epson|HB83|kasauli|HB83|
 |Epson|Projector|sti6200d101|Projector|
 |Epson|STI6110|Bushi|STI6110|
 |Epson|embt4|embt4|EMBT4|
@@ -14505,6 +14507,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX3|
 |Honor|HONOR 500|HNMEY|MEY-AN00|
+|Honor|HONOR 600 Lite|HNLNA-M1|LNA-NX1|
+|Honor|HONOR 600e|HNLNA-M1|LNA-NX3|
 |Honor|HONOR 70|HNFNE|FNE-NX9|
 |Honor|HONOR 70 Lite|HNRBN-Q|RBN-NX1|
 |Honor|HONOR 90|HNREA|REA-NX9|
@@ -14539,6 +14543,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR MagicPad2|HNROD2-Q|ROD2-W09|
 |Honor|HONOR MagicPad2|HNROD2-Q1|ROD2-W09|
 |Honor|HONOR MagicPad3|HNCGA-Q1|CGA-W00|
+|Honor|HONOR MagicPad4|HNYLE-Q1|YLE-W09|
 |Honor|HONOR Pad 10|HNHEY3-Q1|HEY3-N09|
 |Honor|HONOR Pad 10|HNHEY3-Q1|HEY3-W00|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
@@ -18872,6 +18877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KRIP|K51|K51|K51|
 |KRIP|K55g|K55g|K55g|
 |KRIP|K55h|K55h|K55h|
+|KRIP|K56|K56|K56|
 |KRIP|K57|K57|K57|
 |KRIP|K58|K58|K58|
 |KRIP|K58b|K58b|K58b|
@@ -26927,6 +26933,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NGM Italia SRL|Smart5Plus|Smart5Plus|Smart5Plus|
 |NIKAI_PRO|NIKAI_PRO|elliniko|4K SMART TV|
 |NIKAI_PRO|NIKAI_PRO|hongkong|4K SMART TV|
+|NIKAI_PRO|Smart TV|alimos|NIKAI PRO Google TV|
 |NIKAI_PRO|Smart TV|dangni|NIKAI PRO Google TV|
 |NIO|N2301|davinci|N2301|
 |NIO|N2401|picasso|N2401|
@@ -28438,6 +28445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A60|OP5B16L1|CPH3669|
 |Oppo|A60 5G|OP5EA7L1|CPH2683|
 |Oppo|A6c|OP61C7L1|PMC110|
+|Oppo|A6c|OP632F|CPH2895|
 |Oppo|A6s|OP62A3L1|CPH2815|
 |Oppo|A6t|OP62A3L1|CPH2847|
 |Oppo|A6t 5G|OP5F2BL1|CPH2853|
@@ -30524,6 +30532,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|S7210|S7210|S7210|
 |Philips|S7220|S7220|S7220|
 |Philips|S8300|S8300|S8300|
+|Philips|S8306|S8306|S8306|
 |Philips|Smart TV|dangni|SWTV|
 |Philips|Smart TV|guui|PHILIPS 4k TV|
 |Philips|Smart TV|hino|PHILIPS TV|
@@ -30698,6 +30707,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pleio|N9600|NETGEM_TV_B866W6M|N9600|
 |Plimpton|Kids10_A15|Kids10_A15|Kids10_A15|
 |Plimpton|Kids10_A15_EEA|Kids10_A15_EEA|Kids10_A15_EEA|
+|Plimpton|Kids10_A16_EEA_JAE|Kids10_A16_EEA_JAE|Kids10_A16_EEA_JAE|
 |Plimpton|Kids10_A16_JAE|Kids10_A16_JAE|Kids10_A16_JAE|
 |Plimpton|Kids20|Kids20|Kids20|
 |Plimpton|Kids20A14|Kids20A14|Kids20|
@@ -33602,6 +33612,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC|US|martin|SPC Android Monitor|
 |SPC|WUUM S|Discovery|Discovery|
 |SPC|WUUM_S_PRO_EEA|DISCOVERY_2|WUUM S PRO|
+|SPC|WUUM_TAB_EEA|WUUM_TAB|WUUM TAB|
 |SPC|ZEUS 2|ZEUS_2|ZEUS 2|
 |SPC|ZEUS 2 PRO|ZEUS_2_PRO|ZEUS 2 PRO|
 |SPC Mobile|APOLO|APOLO|APOLO|
