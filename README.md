@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-28
+Last sync is 2026-03-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -47684,9 +47684,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 15T Pro|klimt|2506BPN68G|
 |Xiaomi|Xiaomi 15T Pro|klimt|2506BPN68R|
 |Xiaomi|Xiaomi 17|pudding|25113PN0EC|
+|Xiaomi|Xiaomi 17|pudding|25113PN0EG|
 |Xiaomi|Xiaomi 17 Pro|pandora|25098PN5AC|
 |Xiaomi|Xiaomi 17 Pro Max|popsicle|2509FPN0BC|
 |Xiaomi|Xiaomi 17 Ultra|nezha|2512BPNDAC|
+|Xiaomi|Xiaomi 17 Ultra|nezha|2512BPNDAG|
+|Xiaomi|Xiaomi 17 Ultra|nezha|2512BPNDAI|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
