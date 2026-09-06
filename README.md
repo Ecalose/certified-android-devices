@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-05
+Last sync is 2026-09-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -26868,6 +26868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto razr 50|arcfox|XT2451-4|
 |Motorola|moto razr 70 ultra|lhotse|XT2655-4|
 |Motorola|moto tab g20|mototabg20|moto tab g20|
+|Motorola|moto watch ultra|atlas|moto watch ultra|
 |Motorola|moto z3 play|beckham|Moto Z3 Play|
 |Motorola|moto z4|foles|Moto Z3 Play|
 |Motorola|moto z4|foles|moto z4|

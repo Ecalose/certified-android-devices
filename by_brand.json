@@ -138404,6 +138404,11 @@
    "model": "moto tab g20"
   },
   {
+   "device": "atlas",
+   "name": "moto watch ultra",
+   "model": "moto watch ultra"
+  },
+  {
    "device": "beckham",
    "name": "moto z3 play",
    "model": "Moto Z3 Play"
