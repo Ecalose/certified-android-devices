@@ -28678,6 +28678,11 @@
    "model": "EB-Q_series"
   },
   {
+   "brand": "ETTO",
+   "name": "ETTO",
+   "model": "MZYIA"
+  },
+  {
    "brand": "Fujitsu",
    "name": "IWxx2_DXx",
    "model": "IWxx2_DXx"
@@ -41481,6 +41486,13 @@
    "model": "GLTAB101"
   }
  ],
+ "ProColor_P5UC_Plus": [
+  {
+   "brand": "BOXLIGHT",
+   "name": "ProColor_P5UC_Plus",
+   "model": "Interactive_Intelligent_Panel"
+  }
+ ],
  "YYC": [
   {
    "brand": "BOXY",
@@ -44197,6 +44209,28 @@
    "model": "JM-250"
   }
  ],
+ "araku": [
+  {
+   "brand": "BenQ",
+   "name": "Joybee",
+   "model": "Joybee"
+  },
+  {
+   "brand": "FPD",
+   "name": "FPD",
+   "model": "Projector"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "SLCD_24PGV2",
+   "model": "EcoPro"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VAMVO",
+   "model": "EcoPro"
+  }
+ ],
  "Agora_4G_PLUS": [
   {
    "brand": "BenQ",
@@ -45049,6 +45083,11 @@
    "brand": "Bigme",
    "name": "HiBreak_RU",
    "model": "HiBreak"
+  },
+  {
+   "brand": "Evertek",
+   "name": "AURA PRO",
+   "model": "AURA PRO"
   },
   {
    "brand": "Vgo Tel",
@@ -56589,6 +56628,13 @@
    "model": "bytello_edla"
   }
  ],
+ "oversea_neutral": [
+  {
+   "brand": "CVTE",
+   "name": "general_3576_camera",
+   "model": "bytello_edla"
+  }
+ ],
  "mensa": [
   {
    "brand": "CVTE",
@@ -57067,6 +57113,11 @@
   },
   {
    "brand": "FOLG",
+   "name": "S18",
+   "model": "S18"
+  },
+  {
+   "brand": "i-custom",
    "name": "S18",
    "model": "S18"
   }
@@ -74432,6 +74483,13 @@
    "brand": "Dicle_Tab",
    "name": "Dicle_Tab_Active",
    "model": "Active"
+  }
+ ],
+ "Comtrend-S3A": [
+  {
+   "brand": "Digi",
+   "name": "Comtrend-S3A",
+   "model": "Comtrend-S3A"
   }
  ],
  "DIGI_R2A": [
@@ -95571,6 +95629,11 @@
    "brand": "Hyundai",
    "name": "Intelliboard_Xai",
    "model": "HD_series"
+  },
+  {
+   "brand": "IACTIVE",
+   "name": "Iactive_IFPD",
+   "model": "W Series"
   },
   {
    "brand": "SOLITAIRE",
@@ -134409,6 +134472,13 @@
    "model": "Infinix X1201"
   }
  ],
+ "Infinix-X1102D": [
+  {
+   "brand": "Infinix",
+   "name": "XPAD 30",
+   "model": "Infinix X1102D"
+  }
+ ],
  "Infinix-X1102B": [
   {
    "brand": "Infinix",
@@ -143254,28 +143324,6 @@
    "brand": "KTCtv",
    "name": "EcoTV2",
    "model": "EcoTV2"
-  }
- ],
- "araku": [
-  {
-   "brand": "KTCtv",
-   "name": "FPD",
-   "model": "Projector"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "Joybee",
-   "model": "Joybee"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "SLCD_24PGV2",
-   "model": "EcoPro"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "VAMVO",
-   "model": "EcoPro"
   }
  ],
  "TMS-KR01P": [
@@ -156736,6 +156784,13 @@
    "brand": "LG_Electronics",
    "name": "TR3DQ-B",
    "model": "TR3DQ-B"
+  }
+ ],
+ "TR3ER": [
+  {
+   "brand": "LG_Electronics",
+   "name": "TR3ER",
+   "model": "TR3ER"
   }
  ],
  "TR3ER-B": [
@@ -211372,6 +211427,23 @@
    "model": "2510ERA8BI"
   }
  ],
+ "steppe": [
+  {
+   "brand": "POCO",
+   "name": "POCO M8x 5G",
+   "model": "26062PC92I"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI 17 5G",
+   "model": "26062RN92G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI 17 5G",
+   "model": "26062RN92I"
+  }
+ ],
  "dizi": [
   {
    "brand": "POCO",
@@ -218690,6 +218762,13 @@
    "model": "T2070"
   }
  ],
+ "T2072": [
+  {
+   "brand": "Positivo",
+   "name": "T2072",
+   "model": "T2072"
+  }
+ ],
  "T3010D": [
   {
    "brand": "Positivo",
@@ -222216,6 +222295,13 @@
   {
    "brand": "Pritom",
    "name": "L10_T13_EEA",
+   "model": "L10"
+  }
+ ],
+ "L10_T19": [
+  {
+   "brand": "Pritom",
+   "name": "L10_T19_EEA",
    "model": "L10"
   }
  ],
@@ -228513,18 +228599,6 @@
    "brand": "Redmi",
    "name": "POCO F5",
    "model": "23049PCD8I"
-  }
- ],
- "steppe": [
-  {
-   "brand": "Redmi",
-   "name": "REDMI 17 5G",
-   "model": "26062RN92G"
-  },
-  {
-   "brand": "Redmi",
-   "name": "REDMI 17 5G",
-   "model": "26062RN92I"
   }
  ],
  "turner": [
@@ -238052,6 +238126,13 @@
    "brand": "Samsung",
    "name": "Galaxy A18",
    "model": "SM-A185N"
+  }
+ ],
+ "a18m": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A18",
+   "model": "SM-A185G"
   }
  ],
  "a2corelte": [
@@ -308454,22 +308535,22 @@
   },
   {
    "brand": "iQOO",
-   "name": "iQOO Pad5e",
+   "name": "iPA2537",
    "model": "iPA2453"
   },
   {
    "brand": "iQOO",
-   "name": "iQOO Pad5e",
+   "name": "iPA2537",
    "model": "iPA2537"
   },
   {
    "brand": "vivo",
-   "name": "Pad5e",
+   "name": "PA2535",
    "model": "PA2455"
   },
   {
    "brand": "vivo",
-   "name": "Pad5e",
+   "name": "PA2535",
    "model": "PA2535"
   }
  ],
@@ -318316,6 +318397,13 @@
    "model": "M025EC"
   }
  ],
+ "lhasa": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 18 Fold",
+   "model": "2608BPX34C"
+  }
+ ],
  "zijin": [
   {
    "brand": "Xiaomi",
@@ -318499,6 +318587,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 8 Pro",
    "model": "25091RP04C"
+  }
+ ],
+ "yingtian": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 9 Pro Max",
+   "model": "M367FC"
   }
  ],
  "arctictale": [

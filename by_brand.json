@@ -19905,6 +19905,11 @@
    "model": "Interactive_Intelligent_Panel"
   },
   {
+   "device": "ProColor_P5UC_Plus",
+   "name": "ProColor_P5UC_Plus",
+   "model": "Interactive_Intelligent_Panel"
+  },
+  {
    "device": "oversea_v",
    "name": "ProColor_PcMod_i5_14_1",
    "model": "PC_MODULE"
@@ -21880,6 +21885,11 @@
    "device": "JM-250_P1",
    "name": "JM-250",
    "model": "JM-250"
+  },
+  {
+   "device": "araku",
+   "name": "Joybee",
+   "model": "Joybee"
   },
   {
    "device": "Agora_4G_PLUS",
@@ -30626,6 +30636,11 @@
   {
    "device": "oversea_b",
    "name": "general_3576",
+   "model": "bytello_edla"
+  },
+  {
+   "device": "oversea_neutral",
+   "name": "general_3576_camera",
    "model": "bytello_edla"
   },
   {
@@ -43678,6 +43693,11 @@
  ],
  "Digi": [
   {
+   "device": "Comtrend-S3A",
+   "name": "Comtrend-S3A",
+   "model": "Comtrend-S3A"
+  },
+  {
    "device": "DIGI_R2A",
    "name": "DIGI R2A",
    "model": "DIGI R2A"
@@ -50113,6 +50133,13 @@
    "model": "D2G"
   }
  ],
+ "ETTO": [
+  {
+   "device": "oversea_v",
+   "name": "ETTO",
+   "model": "MZYIA"
+  }
+ ],
  "EUDORA": [
   {
    "device": "E10Pro",
@@ -53111,6 +53138,11 @@
  ],
  "Evertek": [
   {
+   "device": "Smartphone",
+   "name": "AURA PRO",
+   "model": "AURA PRO"
+  },
+  {
    "device": "E7224HG",
    "name": "E7224HG",
    "model": "E7224HG"
@@ -55258,6 +55290,11 @@
    "device": "elliniko",
    "name": "EcoTV1 Plus",
    "model": "EcoTV1 Plus"
+  },
+  {
+   "device": "araku",
+   "name": "FPD",
+   "model": "Projector"
   },
   {
    "device": "elliniko",
@@ -89618,6 +89655,11 @@
  ],
  "IACTIVE": [
   {
+   "device": "IFPD",
+   "name": "Iactive_IFPD",
+   "model": "W Series"
+  },
+  {
    "device": "lactive_IA75",
    "name": "lactive_IA75",
    "model": "IACTIVE"
@@ -93559,6 +93601,11 @@
    "device": "Infinix-X1201",
    "name": "XPAD 20 Pro",
    "model": "Infinix X1201"
+  },
+  {
+   "device": "Infinix-X1102D",
+   "name": "XPAD 30",
+   "model": "Infinix X1102D"
   },
   {
    "device": "Infinix-X1102B",
@@ -101582,11 +101629,6 @@
    "model": "2K SMART TV"
   },
   {
-   "device": "araku",
-   "name": "FPD",
-   "model": "Projector"
-  },
-  {
    "device": "elliniko",
    "name": "FPS",
    "model": "4K SMART TV"
@@ -101765,11 +101807,6 @@
    "device": "elliniko",
    "name": "JVCO",
    "model": "4K SMART TV"
-  },
-  {
-   "device": "araku",
-   "name": "Joybee",
-   "model": "Joybee"
   },
   {
    "device": "stanford",
@@ -113761,6 +113798,11 @@
    "device": "TR3DQ-B",
    "name": "TR3DQ-B",
    "model": "TR3DQ-B"
+  },
+  {
+   "device": "TR3ER",
+   "name": "TR3ER",
+   "model": "TR3ER"
   },
   {
    "device": "TR3ER-B",
@@ -159295,6 +159337,11 @@
    "model": "2510EPC8BG"
   },
   {
+   "device": "steppe",
+   "name": "POCO M8x 5G",
+   "model": "26062PC92I"
+  },
+  {
    "device": "dizi",
    "name": "POCO Pad",
    "model": "2405CPCFBG"
@@ -165615,6 +165662,11 @@
    "model": "T2070"
   },
   {
+   "device": "T2072",
+   "name": "T2072",
+   "model": "T2072"
+  },
+  {
    "device": "T3010D",
    "name": "T3010D",
    "model": "Vision Tab 10"
@@ -168637,6 +168689,11 @@
   {
    "device": "L10_T13_EEA",
    "name": "L10_T13_EEA",
+   "model": "L10"
+  },
+  {
+   "device": "L10_T19",
+   "name": "L10_T19_EEA",
    "model": "L10"
   },
   {
@@ -183785,6 +183842,11 @@
    "device": "a18",
    "name": "Galaxy A18",
    "model": "SM-A185N"
+  },
+  {
+   "device": "a18m",
+   "name": "Galaxy A18",
+   "model": "SM-A185G"
   },
   {
    "device": "a2corelte",
@@ -254148,6 +254210,11 @@
    "model": "M025EC"
   },
   {
+   "device": "lhasa",
+   "name": "Xiaomi 18 Fold",
+   "model": "2608BPX34C"
+  },
+  {
    "device": "mona",
    "name": "Xiaomi Civi",
    "model": "2109119BC"
@@ -254296,6 +254363,11 @@
    "device": "piano",
    "name": "Xiaomi Pad 8 Pro",
    "model": "25091RP04C"
+  },
+  {
+   "device": "yingtian",
+   "name": "Xiaomi Pad 9 Pro Max",
+   "model": "M367FC"
   },
   {
    "device": "turner",
@@ -269239,6 +269311,11 @@
    "model": "S13"
   },
   {
+   "device": "S18",
+   "name": "S18",
+   "model": "S18"
+  },
+  {
    "device": "S32",
    "name": "S32",
    "model": "S32"
@@ -270986,6 +271063,16 @@
    "model": "I2510"
   },
   {
+   "device": "DPD2345",
+   "name": "iPA2537",
+   "model": "iPA2453"
+  },
+  {
+   "device": "DPD2345",
+   "name": "iPA2537",
+   "model": "iPA2537"
+  },
+  {
    "device": "I2501",
    "name": "iQOO 15",
    "model": "I2501"
@@ -271044,16 +271131,6 @@
    "device": "DPD2429",
    "name": "iQOO Pad5 Pro",
    "model": "iPA2575"
-  },
-  {
-   "device": "DPD2345",
-   "name": "iQOO Pad5e",
-   "model": "iPA2453"
-  },
-  {
-   "device": "DPD2345",
-   "name": "iQOO Pad5e",
-   "model": "iPA2537"
   },
   {
    "device": "I2502",
@@ -275283,19 +275360,19 @@
    "model": "V2531A"
   },
   {
-   "device": "DPD2437",
-   "name": "Pad5",
-   "model": "PA2553"
-  },
-  {
    "device": "DPD2345",
-   "name": "Pad5e",
+   "name": "PA2535",
    "model": "PA2455"
   },
   {
    "device": "DPD2345",
-   "name": "Pad5e",
+   "name": "PA2535",
    "model": "PA2535"
+  },
+  {
+   "device": "DPD2437",
+   "name": "Pad5",
+   "model": "PA2553"
   },
   {
    "device": "DPD2540",

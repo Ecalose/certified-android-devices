@@ -32216,6 +32216,11 @@
    "device": "L10_T13_EEA"
   },
   {
+   "brand": "Pritom",
+   "name": "L10_T19_EEA",
+   "device": "L10_T19"
+  },
+  {
    "brand": "Roenllce",
    "name": "L10-T12",
    "device": "L10-T12"
@@ -35160,6 +35165,11 @@
    "brand": "BOXLIGHT",
    "name": "ProColor_P5",
    "device": "rk3576_u"
+  },
+  {
+   "brand": "BOXLIGHT",
+   "name": "ProColor_P5UC_Plus",
+   "device": "ProColor_P5UC_Plus"
   }
  ],
  "PC_MODULE": [
@@ -37752,6 +37762,13 @@
    "brand": "BenQ",
    "name": "JM-250",
    "device": "JM-250_P1"
+  }
+ ],
+ "Joybee": [
+  {
+   "brand": "BenQ",
+   "name": "Joybee",
+   "device": "araku"
   }
  ],
  "Agora 4G+": [
@@ -47463,6 +47480,11 @@
    "device": "oversea_b"
   },
   {
+   "brand": "CVTE",
+   "name": "general_3576_camera",
+   "device": "oversea_neutral"
+  },
+  {
    "brand": "MIRAI_TOUCH",
    "name": "MXXCE4S",
    "device": "InteractiveFlatPanelDisplay"
@@ -50458,6 +50480,11 @@
   },
   {
    "brand": "FOLG",
+   "name": "S18",
+   "device": "S18"
+  },
+  {
+   "brand": "i-custom",
    "name": "S18",
    "device": "S18"
   }
@@ -67673,6 +67700,13 @@
    "device": "Active"
   }
  ],
+ "Comtrend-S3A": [
+  {
+   "brand": "Digi",
+   "name": "Comtrend-S3A",
+   "device": "Comtrend-S3A"
+  }
+ ],
  "DIGI R2A": [
   {
    "brand": "Digi",
@@ -76254,6 +76288,13 @@
    "device": "himalaya"
   }
  ],
+ "MZYIA": [
+  {
+   "brand": "ETTO",
+   "name": "ETTO",
+   "device": "oversea_v"
+  }
+ ],
  "E10Pro": [
   {
    "brand": "EUDORA",
@@ -78861,7 +78902,7 @@
    "device": "sti6200d101"
   },
   {
-   "brand": "KTCtv",
+   "brand": "FPD",
    "name": "FPD",
    "device": "araku"
   }
@@ -80070,6 +80111,18 @@
    "brand": "Everpad",
    "name": "VORTEX_V10",
    "device": "VORTEX_V10"
+  }
+ ],
+ "AURA PRO": [
+  {
+   "brand": "Evertek",
+   "name": "AURA PRO",
+   "device": "Smartphone"
+  },
+  {
+   "brand": "Zuum",
+   "name": "AURA PRO",
+   "device": "AURA_PRO"
   }
  ],
  "E7224HG": [
@@ -127824,6 +127877,13 @@
    "device": "i3TOUCH-X3"
   }
  ],
+ "W Series": [
+  {
+   "brand": "IACTIVE",
+   "name": "Iactive_IFPD",
+   "device": "IFPD"
+  }
+ ],
  "IACTIVE": [
   {
    "brand": "IACTIVE",
@@ -132718,6 +132778,13 @@
    "brand": "Infinix",
    "name": "XPAD 20 Pro",
    "device": "Infinix-X1201"
+  }
+ ],
+ "Infinix X1102D": [
+  {
+   "brand": "Infinix",
+   "name": "XPAD 30",
+   "device": "Infinix-X1102D"
   }
  ],
  "Infinix X1102B": [
@@ -142556,13 +142623,6 @@
    "brand": "KTCtv",
    "name": "JAMUNA",
    "device": "jagalchi"
-  }
- ],
- "Joybee": [
-  {
-   "brand": "KTCtv",
-   "name": "Joybee",
-   "device": "araku"
   }
  ],
  "EcoTV J": [
@@ -157486,6 +157546,13 @@
    "brand": "LG_Electronics",
    "name": "TR3DQ-B",
    "device": "TR3DQ-B"
+  }
+ ],
+ "TR3ER": [
+  {
+   "brand": "LG_Electronics",
+   "name": "TR3ER",
+   "device": "TR3ER"
   }
  ],
  "TR3ER-B": [
@@ -213459,6 +213526,13 @@
    "device": "flourite"
   }
  ],
+ "26062PC92I": [
+  {
+   "brand": "POCO",
+   "name": "POCO M8x 5G",
+   "device": "steppe"
+  }
+ ],
  "2405CPCFBG": [
   {
    "brand": "POCO",
@@ -221295,6 +221369,13 @@
    "brand": "Positivo",
    "name": "T2070D",
    "device": "T2070D"
+  }
+ ],
+ "T2072": [
+  {
+   "brand": "Positivo",
+   "name": "T2072",
+   "device": "T2072"
   }
  ],
  "Vision Tab 10": [
@@ -242487,6 +242568,13 @@
    "brand": "Samsung",
    "name": "Galaxy A18",
    "device": "a18"
+  }
+ ],
+ "SM-A185G": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A18",
+   "device": "a18m"
   }
  ],
  "SM-A260F": [
@@ -319785,7 +319873,7 @@
   },
   {
    "brand": "iQOO",
-   "name": "iQOO Pad5e",
+   "name": "iPA2537",
    "device": "DPD2345"
   }
  ],
@@ -320490,7 +320578,7 @@
   },
   {
    "brand": "vivo",
-   "name": "Pad5e",
+   "name": "PA2535",
    "device": "DPD2345"
   }
  ],
@@ -330639,6 +330727,13 @@
    "device": "warhol"
   }
  ],
+ "2608BPX34C": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 18 Fold",
+   "device": "lhasa"
+  }
+ ],
  "2109119BC": [
   {
    "brand": "Xiaomi",
@@ -330843,6 +330938,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 8 Pro",
    "device": "piano"
+  }
+ ],
+ "M367FC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 9 Pro Max",
+   "device": "yingtian"
   }
  ],
  "25079RPDCG": [
@@ -346946,13 +347048,6 @@
    "device": "AURA_PLUS_JLO"
   }
  ],
- "AURA PRO": [
-  {
-   "brand": "Zuum",
-   "name": "AURA PRO",
-   "device": "AURA_PRO"
-  }
- ],
  "AURA PRO JLO": [
   {
    "brand": "Zuum",
@@ -351314,6 +351409,13 @@
    "device": "I2510"
   }
  ],
+ "iPA2537": [
+  {
+   "brand": "iQOO",
+   "name": "iPA2537",
+   "device": "DPD2345"
+  }
+ ],
  "I2501": [
   {
    "brand": "iQOO",
@@ -351396,13 +351498,6 @@
    "brand": "iQOO",
    "name": "iQOO Pad5 Pro",
    "device": "DPD2429"
-  }
- ],
- "iPA2537": [
-  {
-   "brand": "iQOO",
-   "name": "iQOO Pad5e",
-   "device": "DPD2345"
   }
  ],
  "I2502": [
@@ -356038,18 +356133,18 @@
    "device": "PD2531"
   }
  ],
+ "PA2535": [
+  {
+   "brand": "vivo",
+   "name": "PA2535",
+   "device": "DPD2345"
+  }
+ ],
  "PA2553": [
   {
    "brand": "vivo",
    "name": "Pad5",
    "device": "DPD2437"
-  }
- ],
- "PA2535": [
-  {
-   "brand": "vivo",
-   "name": "Pad5e",
-   "device": "DPD2345"
   }
  ],
  "PA2671": [
