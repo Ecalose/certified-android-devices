@@ -7668,6 +7668,11 @@
    "device": "K101_EEA"
   },
   {
+   "brand": "RebotAi",
+   "name": "K101_US",
+   "device": "K101_US"
+  },
+  {
    "brand": "SANNUO",
    "name": "K101",
    "device": "K101"
@@ -60558,6 +60563,27 @@
    "device": "27409-1"
   }
  ],
+ "AD-C1": [
+  {
+   "brand": "Crosscall",
+   "name": "AD-C1",
+   "device": "L790"
+  }
+ ],
+ "AD-C2": [
+  {
+   "brand": "Crosscall",
+   "name": "AD-C2",
+   "device": "L790"
+  }
+ ],
+ "AD-C3": [
+  {
+   "brand": "Crosscall",
+   "name": "AD-C3",
+   "device": "L790"
+  }
+ ],
  "ACTION-X3": [
   {
    "brand": "Crosscall",
@@ -60688,6 +60714,18 @@
    "brand": "Crosscall",
    "name": "Core-Z5",
    "device": "L790_02"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Core-Z5",
+   "device": "L790"
+  }
+ ],
+ "Core-Z5P": [
+  {
+   "brand": "Crosscall",
+   "name": "Core-Z5P",
+   "device": "L790"
   }
  ],
  "AD-Z5": [
@@ -108057,6 +108095,13 @@
    "device": "HLTE105E_03"
   }
  ],
+ "Hisense E36": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E36",
+   "device": "HLTE115E"
+  }
+ ],
  "Hisense V40": [
   {
    "brand": "Hisense",
@@ -108213,6 +108258,13 @@
    "device": "HLTE263E"
   }
  ],
+ "Hisense E73": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E73",
+   "device": "HLTE115E"
+  }
+ ],
  "Hisense E76MINIM": [
   {
    "brand": "Hisense",
@@ -108239,6 +108291,27 @@
    "brand": "Hisense",
    "name": "Hisense Enigma",
    "device": "HLTE272E"
+  }
+ ],
+ "Hisense Enigma Plus": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense Enigma Plus",
+   "device": "HLTE115E"
+  }
+ ],
+ "Hisense Hisense Engima Plus": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense Enigma Plus",
+   "device": "HLTE115E"
+  }
+ ],
+ "Hisense Hisense Enigma Plus": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense Enigma Plus",
+   "device": "HLTE115E"
   }
  ],
  "Hisense F15": [
@@ -108447,6 +108520,18 @@
    "device": "HLTE240E"
   }
  ],
+ "Hisense H73": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense H73",
+   "device": "HLTE271E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense Infinity H72 Pro",
+   "device": "HLTE271E"
+  }
+ ],
  "Hisense Infinity E30 Lite": [
   {
    "brand": "Hisense",
@@ -108523,13 +108608,6 @@
    "brand": "Hisense",
    "name": "Hisense Infinity H60 5G",
    "device": "HNR510E"
-  }
- ],
- "Hisense H73": [
-  {
-   "brand": "Hisense",
-   "name": "Hisense Infinity H72 Pro",
-   "device": "HLTE271E"
   }
  ],
  "Hisense Infinity H72 Pro": [
@@ -108695,7 +108773,19 @@
    "device": "HS7731ESP"
   }
  ],
+ "Hisense Enigma Lite": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U54",
+   "device": "HLTE115E"
+  }
+ ],
  "Hisense U54": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U54",
+   "device": "HLTE115E"
+  },
   {
    "brand": "Hisense",
    "name": "Hisense U54",
@@ -109061,6 +109151,13 @@
    "brand": "Hisense",
    "name": "Hisense V50",
    "device": "HLTE233E_11"
+  }
+ ],
+ "Hisense Y63": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense Y63",
+   "device": "HLTE115E"
   }
  ],
  "Hisense I300T": [
@@ -141245,6 +141342,13 @@
    "brand": "KENSHI",
    "name": "101HH1B",
    "device": "101HH1B"
+  }
+ ],
+ "101HH1C": [
+  {
+   "brand": "KENSHI",
+   "name": "101HH1C",
+   "device": "101HH1C"
   }
  ],
  "Armor C1 Max": [
@@ -238670,6 +238774,13 @@
    "brand": "SSmooth",
    "name": "Vision Plus",
    "device": "Vision_Plus"
+  }
+ ],
+ "CP31M-4T": [
+  {
+   "brand": "ST(everup)",
+   "name": "CP31M-4T",
+   "device": "CP31M-4T"
   }
  ],
  "VARG": [

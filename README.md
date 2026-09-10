@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-09
+Last sync is 2026-09-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7421,6 +7421,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Croatian Telecom|KSTB6044|KSTB6044|KSTB6044|
 |Croma|43FDVRCHG5SP|ikebukuro|AI PONT|
 |Crosscall|27409-1|27409-1|27409-1|
+|Crosscall|AD-C1|L790|AD-C1|
+|Crosscall|AD-C2|L790|AD-C2|
+|Crosscall|AD-C3|L790|AD-C3|
 |Crosscall|Action-X3|HS8937QC|ACTION-X3|
 |Crosscall|Action-X3|HS8937QC|Action-X3|
 |Crosscall|Action-X3|HS8937QC|Action-X3 Pro|
@@ -7441,6 +7444,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|Core-X5|L771|Core-X5|
 |Crosscall|Core-Z5|L790|Core-Z5|
 |Crosscall|Core-Z5|L790_02|Core-Z5|
+|Crosscall|Core-Z5P|L790|Core-Z5P|
 |Crosscall|Core-Z6|L790|AD-Z5|
 |Crosscall|ODYSSEY|ODYSSEY3G|ODYSSEY|
 |Crosscall|Stellar-M6|L768|Stellar-M6|
@@ -14112,6 +14116,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|CMB405|L690AE|CMB405|
 |Hisense|CMB501|u970_carrefour|CMB501|
 |Hisense|CMB510|L696|CMB510|
+|Hisense|Core-Z5|L790|Core-Z5|
 |Hisense|D1-M|D1_M|Hisense D1-M|
 |Hisense|D2-M|HS6735MT|D2-M|
 |Hisense|D5|HS8909QC|Hisense D5|
@@ -14349,6 +14354,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E31 Lite|HLTE105E_02|Hisense E31 Lite|
 |Hisense|Hisense E31 Lite|HLTE105E_03|Hisense E31 Lite|
 |Hisense|Hisense E33|HLTE243E_01|Hisense E33|
+|Hisense|Hisense E36|HLTE115E|Hisense E36|
 |Hisense|Hisense E40|HLTE229E|HLTE229E|
 |Hisense|Hisense E40|HLTE229E|Hisense E40|
 |Hisense|Hisense E40|HLTE229E_10|HLTE229E|
@@ -14381,10 +14387,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E70|HLTE262E|Hisense E70|
 |Hisense|Hisense E70|HLTE262E_01|Hisense E70|
 |Hisense|Hisense E70 Pro|HLTE263E|Hisense E70 Pro|
+|Hisense|Hisense E73|HLTE115E|Hisense E73|
 |Hisense|Hisense E76MINIM|HS8937QC|Hisense E76MINIM|
 |Hisense|Hisense E77|HS8937QC|Hisense E77|
 |Hisense|Hisense Enigma|HLTE272E|Hisense Enigma|
 |Hisense|Hisense Enigma|HLTE272E|Hisense Enigma SE|
+|Hisense|Hisense Enigma Plus|HLTE115E|Hisense Enigma Plus|
+|Hisense|Hisense Enigma Plus|HLTE115E|Hisense Hisense Engima Plus|
+|Hisense|Hisense Enigma Plus|HLTE115E|Hisense Hisense Enigma Plus|
 |Hisense|Hisense F15|HS6739MT|Hisense F15|
 |Hisense|Hisense F16|HS6739MT|Hisense F16|
 |Hisense|Hisense F16|HS6739MT|Hisense Infinity E6|
@@ -14414,6 +14424,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense H40 Lite|SC9863A|Hisense H40 Lite|
 |Hisense|Hisense H50 Lite|HLTE233E_12|Hisense H50 Lite|
 |Hisense|Hisense H60 Smart|HLTE240E|Hisense H60 Smart|
+|Hisense|Hisense H73|HLTE271E|Hisense H73|
 |Hisense|Hisense Infinity E30 Lite|SC9832E|Hisense Infinity E30 Lite|
 |Hisense|Hisense Infinity H12 Pro|HSSDM636QC|Hisense Infinity H12 Pro|
 |Hisense|Hisense Infinity H40 Lite|HLTE230E_01|HLTE230E_01|
@@ -14455,6 +14466,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U50|HLTE222E_01|Hisense U50|
 |Hisense|Hisense U50|HLTE222E_02|Hisense U50|
 |Hisense|Hisense U50|HLTE233E_10|Hisense H50 Lite|
+|Hisense|Hisense U54|HLTE115E|Hisense Enigma Lite|
+|Hisense|Hisense U54|HLTE115E|Hisense U54|
 |Hisense|Hisense U54|HLTE124E|Hisense U54|
 |Hisense|Hisense U605|HS7731ESP|HWCD101E|
 |Hisense|Hisense U605|HS7731ESP|HWCD102E|
@@ -14517,6 +14530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense V40S|HLTE229E_30|Hisense V40S|
 |Hisense|Hisense V40S|HLTE229E_30|Hisense V40s|
 |Hisense|Hisense V50|HLTE233E_11|Hisense V50|
+|Hisense|Hisense Y63|HLTE115E|Hisense Y63|
 |Hisense|I300T|I300T|Hisense I300T|
 |Hisense|I56D2G|HS8929QC|Andromax I56D2G|
 |Hisense|I630U|I630U|Hisense I630U|
@@ -19432,6 +19446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEMPLER STRAUSS|ZKEMPLER_MAX|ZKEMPLER_MAX|ZKEMPLER_MAX|
 |KEMPLER STRAUSS|ZKEMPLER_PLUS|ZKEMPLER_PLUS|ZKEMPLER PLUS|
 |KENSHI|101HH1B|101HH1B|101HH1B|
+|KENSHI|101HH1C|101HH1C|101HH1C|
 |KENSHI|Armor C1 Max|Armor_C1_Max|Armor C1 Max|
 |KENSHI|Armor C1s|Armor_C1s|Armor C1s|
 |KENSHI|Armor H1s|Armor_H1s|Armor H1s|
@@ -33820,6 +33835,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|D101_EEA|D101_EEA|D101_PRO|
 |RebotAi|K101|K101|K101|
 |RebotAi|K101_EEA|K101_EEA|K101|
+|RebotAi|K101_US|K101_US|K101|
 |Rectron|MX101M2|MX101M2|MX101M2|
 |Rectron|MX702M1|MX702M1|MX702M1|
 |Red Mobile|Quick_5_0|Quick_5_0|Quick 5.0|
@@ -35075,6 +35091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SSmooth|Smooth_8GT|Smooth_8GT|Smooth 8GT|
 |SSmooth|Vision|Vision|Vision|
 |SSmooth|Vision Plus|Vision_Plus|Vision Plus|
+|ST(everup)|CP31M-4T|CP31M-4T|CP31M-4T|
 |STARK_FUTURE|ARKENSTONE|ARKENSTONE|ARKENSTONE|
 |STARK_FUTURE|VARG|VARG|VARG|
 |STARSAT|Smart TV|osaka|AI PONT|

@@ -38437,6 +38437,21 @@
    "model": "27409-1"
   },
   {
+   "device": "L790",
+   "name": "AD-C1",
+   "model": "AD-C1"
+  },
+  {
+   "device": "L790",
+   "name": "AD-C2",
+   "model": "AD-C2"
+  },
+  {
+   "device": "L790",
+   "name": "AD-C3",
+   "model": "AD-C3"
+  },
+  {
    "device": "HS8937QC",
    "name": "Action-X3",
    "model": "ACTION-X3"
@@ -38535,6 +38550,11 @@
    "device": "L790_02",
    "name": "Core-Z5",
    "model": "Core-Z5"
+  },
+  {
+   "device": "L790",
+   "name": "Core-Z5P",
+   "model": "Core-Z5P"
   },
   {
    "device": "L790",
@@ -73268,6 +73288,11 @@
    "model": "CMB510"
   },
   {
+   "device": "L790",
+   "name": "Core-Z5",
+   "model": "Core-Z5"
+  },
+  {
    "device": "D1_M",
    "name": "D1-M",
    "model": "Hisense D1-M"
@@ -74453,6 +74478,11 @@
    "model": "Hisense E33"
   },
   {
+   "device": "HLTE115E",
+   "name": "Hisense E36",
+   "model": "Hisense E36"
+  },
+  {
    "device": "HLTE229E",
    "name": "Hisense E40",
    "model": "HLTE229E"
@@ -74613,6 +74643,11 @@
    "model": "Hisense E70 Pro"
   },
   {
+   "device": "HLTE115E",
+   "name": "Hisense E73",
+   "model": "Hisense E73"
+  },
+  {
    "device": "HS8937QC",
    "name": "Hisense E76MINIM",
    "model": "Hisense E76MINIM"
@@ -74631,6 +74666,21 @@
    "device": "HLTE272E",
    "name": "Hisense Enigma",
    "model": "Hisense Enigma SE"
+  },
+  {
+   "device": "HLTE115E",
+   "name": "Hisense Enigma Plus",
+   "model": "Hisense Enigma Plus"
+  },
+  {
+   "device": "HLTE115E",
+   "name": "Hisense Enigma Plus",
+   "model": "Hisense Hisense Engima Plus"
+  },
+  {
+   "device": "HLTE115E",
+   "name": "Hisense Enigma Plus",
+   "model": "Hisense Hisense Enigma Plus"
   },
   {
    "device": "HS6739MT",
@@ -74776,6 +74826,11 @@
    "device": "HLTE240E",
    "name": "Hisense H60 Smart",
    "model": "Hisense H60 Smart"
+  },
+  {
+   "device": "HLTE271E",
+   "name": "Hisense H73",
+   "model": "Hisense H73"
   },
   {
    "device": "SC9832E",
@@ -74981,6 +75036,16 @@
    "device": "HLTE233E_10",
    "name": "Hisense U50",
    "model": "Hisense H50 Lite"
+  },
+  {
+   "device": "HLTE115E",
+   "name": "Hisense U54",
+   "model": "Hisense Enigma Lite"
+  },
+  {
+   "device": "HLTE115E",
+   "name": "Hisense U54",
+   "model": "Hisense U54"
   },
   {
    "device": "HLTE124E",
@@ -75291,6 +75356,11 @@
    "device": "HLTE233E_11",
    "name": "Hisense V50",
    "model": "Hisense V50"
+  },
+  {
+   "device": "HLTE115E",
+   "name": "Hisense Y63",
+   "model": "Hisense Y63"
   },
   {
    "device": "I300T",
@@ -100336,6 +100406,11 @@
    "device": "101HH1B",
    "name": "101HH1B",
    "model": "101HH1B"
+  },
+  {
+   "device": "101HH1C",
+   "name": "101HH1C",
+   "model": "101HH1C"
   },
   {
    "device": "Armor_C1_Max",
@@ -174214,6 +174289,11 @@
    "device": "K101_EEA",
    "name": "K101_EEA",
    "model": "K101"
+  },
+  {
+   "device": "K101_US",
+   "name": "K101_US",
+   "model": "K101"
   }
  ],
  "Rectron": [
@@ -180777,6 +180857,13 @@
    "device": "Vision_Plus",
    "name": "Vision Plus",
    "model": "Vision Plus"
+  }
+ ],
+ "ST(everup)": [
+  {
+   "device": "CP31M-4T",
+   "name": "CP31M-4T",
+   "model": "CP31M-4T"
   }
  ],
  "STARK_FUTURE": [

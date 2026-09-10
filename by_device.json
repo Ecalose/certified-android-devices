@@ -67167,6 +67167,43 @@
    "model": "27409-1"
   }
  ],
+ "L790": [
+  {
+   "brand": "Crosscall",
+   "name": "AD-C1",
+   "model": "AD-C1"
+  },
+  {
+   "brand": "Crosscall",
+   "name": "AD-C2",
+   "model": "AD-C2"
+  },
+  {
+   "brand": "Crosscall",
+   "name": "AD-C3",
+   "model": "AD-C3"
+  },
+  {
+   "brand": "Crosscall",
+   "name": "Core-Z5",
+   "model": "Core-Z5"
+  },
+  {
+   "brand": "Crosscall",
+   "name": "Core-Z5P",
+   "model": "Core-Z5P"
+  },
+  {
+   "brand": "Crosscall",
+   "name": "Core-Z6",
+   "model": "AD-Z5"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Core-Z5",
+   "model": "Core-Z5"
+  }
+ ],
  "HS8937QC": [
   {
    "brand": "Crosscall",
@@ -67473,18 +67510,6 @@
    "brand": "Crosscall",
    "name": "Core-X5",
    "model": "Core-X5"
-  }
- ],
- "L790": [
-  {
-   "brand": "Crosscall",
-   "name": "Core-Z5",
-   "model": "Core-Z5"
-  },
-  {
-   "brand": "Crosscall",
-   "name": "Core-Z6",
-   "model": "AD-Z5"
   }
  ],
  "L790_02": [
@@ -112510,6 +112535,53 @@
    "model": "Hisense E33"
   }
  ],
+ "HLTE115E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E36",
+   "model": "Hisense E36"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E73",
+   "model": "Hisense E73"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense Enigma Plus",
+   "model": "Hisense Enigma Plus"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense Enigma Plus",
+   "model": "Hisense Hisense Engima Plus"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense Enigma Plus",
+   "model": "Hisense Hisense Enigma Plus"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense M51",
+   "model": "Hisense M51"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U54",
+   "model": "Hisense Enigma Lite"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U54",
+   "model": "Hisense U54"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense Y63",
+   "model": "Hisense Y63"
+  }
+ ],
  "HLTE229E": [
   {
    "brand": "Hisense",
@@ -112842,6 +112914,23 @@
    "model": "Hisense H60 Smart"
   }
  ],
+ "HLTE271E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense H73",
+   "model": "Hisense H73"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense Infinity H72 Pro",
+   "model": "Hisense H73"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense Infinity H72 Pro",
+   "model": "Hisense Infinity H72 Pro"
+  }
+ ],
  "SC9832E": [
   {
    "brand": "Hisense",
@@ -112947,25 +113036,6 @@
    "brand": "Hisense",
    "name": "Hisense Infinity H60 5G",
    "model": "Hisense Infinity H60 5G"
-  }
- ],
- "HLTE271E": [
-  {
-   "brand": "Hisense",
-   "name": "Hisense Infinity H72 Pro",
-   "model": "Hisense H73"
-  },
-  {
-   "brand": "Hisense",
-   "name": "Hisense Infinity H72 Pro",
-   "model": "Hisense Infinity H72 Pro"
-  }
- ],
- "HLTE115E": [
-  {
-   "brand": "Hisense",
-   "name": "Hisense M51",
-   "model": "Hisense M51"
   }
  ],
  "HLTE100E_20": [
@@ -142169,6 +142239,13 @@
    "brand": "KENSHI",
    "name": "101HH1B",
    "model": "101HH1B"
+  }
+ ],
+ "101HH1C": [
+  {
+   "brand": "KENSHI",
+   "name": "101HH1C",
+   "model": "101HH1C"
   }
  ],
  "Armor_C1_Max": [
@@ -228517,6 +228594,13 @@
    "model": "K101_EEA"
   }
  ],
+ "K101_US": [
+  {
+   "brand": "RebotAi",
+   "name": "K101_US",
+   "model": "K101"
+  }
+ ],
  "MX101M2": [
   {
    "brand": "Rectron",
@@ -234883,6 +234967,13 @@
    "brand": "SSmooth",
    "name": "Vision Plus",
    "model": "Vision Plus"
+  }
+ ],
+ "CP31M-4T": [
+  {
+   "brand": "ST(everup)",
+   "name": "CP31M-4T",
+   "model": "CP31M-4T"
   }
  ],
  "ARKENSTONE": [
