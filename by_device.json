@@ -117874,6 +117874,13 @@
    "model": "FieldHub1_0"
   }
  ],
+ "H-H101_EEA": [
+  {
+   "brand": "Hosoton",
+   "name": "H-H101_EEA",
+   "model": "H-H101_EEA"
+  }
+ ],
  "H101": [
   {
    "brand": "Hosoton",
@@ -131364,6 +131371,13 @@
    "model": "TM08E2W74"
   }
  ],
+ "TM08F6W74": [
+  {
+   "brand": "IRIS_OHYAMA",
+   "name": "TM08F6W74",
+   "model": "TM08F6W74"
+  }
+ ],
  "Odin": [
   {
    "brand": "IRIS_OHYAMA",
@@ -135742,6 +135756,13 @@
    "model": "INTEX AQUA S3"
   }
  ],
+ "Ace2": [
+  {
+   "brand": "Intex",
+   "name": "Ace2",
+   "model": "Ace2"
+  }
+ ],
  "INTEX_AQUA_4_3G": [
   {
    "brand": "Intex",
@@ -139284,6 +139305,13 @@
    "brand": "Itel",
    "name": "itel CITY 200s",
    "model": "itel C681LN"
+  }
+ ],
+ "itel-C672N": [
+  {
+   "brand": "Itel",
+   "name": "itel CITY 300 5G",
+   "model": "itel C672N"
   }
  ],
  "Itel-W7001": [
@@ -170165,6 +170193,13 @@
    "model": "Pure1"
   }
  ],
+ "M18ProMax": [
+  {
+   "brand": "M-Horse",
+   "name": "M18ProMax",
+   "model": "M18ProMax"
+  }
+ ],
  "M2S": [
   {
    "brand": "M-Horse",
@@ -198100,6 +198135,13 @@
    "model": "M19TE"
   }
  ],
+ "M80XE": [
+  {
+   "brand": "ONERugged",
+   "name": "M80XE",
+   "model": "M80XE"
+  }
+ ],
  "M86X": [
   {
    "brand": "ONERugged",
@@ -198313,6 +198355,13 @@
    "brand": "ORCATAB",
    "name": "ORCATAB_WT1_WT1Pro",
    "model": "ORCATAB_WT1_WT1Pro"
+  }
+ ],
+ "ORCATAB_WT3_Pro": [
+  {
+   "brand": "ORCATAB",
+   "name": "ORCATAB_WT3_Pro",
+   "model": "WT3 Pro"
   }
  ],
  "BOLT_2": [
@@ -200031,6 +200080,13 @@
    "brand": "OnePlus",
    "name": "OnePlus N6x",
    "model": "CPH2971"
+  }
+ ],
+ "OP68FB": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus N6 Lite",
+   "model": "CPH2993"
   }
  ],
  "Nord": [
@@ -214847,6 +214903,13 @@
    "model": "Partner Evolution"
   }
  ],
+ "Sofia5": [
+  {
+   "brand": "Partner_Tech",
+   "name": "Sofia5",
+   "model": "Sofia5"
+  }
+ ],
  "M10T2_P15": [
   {
    "brand": "Pastigio",
@@ -228508,6 +228571,13 @@
    "model": "AF13Air_EEA"
   }
  ],
+ "AF13Air_US": [
+  {
+   "brand": "RebotAi",
+   "name": "AF13Air_US",
+   "model": "AF13Air_US"
+  }
+ ],
  "AF13_EEA": [
   {
    "brand": "RebotAi",
@@ -234186,6 +234256,13 @@
    "brand": "SPC",
    "name": "ZEUS_2_ELITE_EEA",
    "model": "ZEUS 2 ELITE"
+  }
+ ],
+ "ZEUS_HALO": [
+  {
+   "brand": "SPC",
+   "name": "ZEUS_HALO_EEA",
+   "model": "ZEUS HALO"
   }
  ],
  "APOLO": [
@@ -260674,6 +260751,23 @@
    "model": "SH-M34"
   }
  ],
+ "SX6": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish6",
+   "model": "A603SH"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish6",
+   "model": "A604SH"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish6",
+   "model": "SH-M36"
+  }
+ ],
  "SG801SH": [
   {
    "brand": "Sharp",
@@ -277896,6 +277990,42 @@
    "brand": "TCL",
    "name": "TCL NXTPAPER 70 Pro",
    "model": "T807W"
+  }
+ ],
+ "Avatar_Pro": [
+  {
+   "brand": "TCL",
+   "name": "TCL P80",
+   "model": "T853K"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL P80",
+   "model": "T853P"
+  }
+ ],
+ "Avatar_Pro_NP": [
+  {
+   "brand": "TCL",
+   "name": "TCL P80 Pro",
+   "model": "T852K"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL P80 Pro",
+   "model": "T852P"
+  }
+ ],
+ "Avatar_Ultra_NP": [
+  {
+   "brand": "TCL",
+   "name": "TCL P80 Ultra",
+   "model": "T952K"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL P80 Ultra",
+   "model": "T952P"
   }
  ],
  "T1_L1": [
@@ -300871,6 +301001,13 @@
    "brand": "VILLAON",
    "name": "V50s",
    "model": "VILLAON V654L"
+  }
+ ],
+ "VILLAON-V655L": [
+  {
+   "brand": "VILLAON",
+   "name": "V60",
+   "model": "VILLAON V655L"
   }
  ],
  "VILLAON-V671N": [
@@ -331450,6 +331587,18 @@
    "model": "TC22"
   }
  ],
+ "TCW01L": [
+  {
+   "brand": "Zebra",
+   "name": "HC201",
+   "model": "HC201L"
+  },
+  {
+   "brand": "Zebra",
+   "name": "TC201",
+   "model": "TC201L"
+  }
+ ],
  "TC27": [
   {
    "brand": "Zebra",
@@ -331678,13 +331827,6 @@
    "brand": "Zebra",
    "name": "TC20",
    "model": "TC20"
-  }
- ],
- "TCW01L": [
-  {
-   "brand": "Zebra",
-   "name": "TC201",
-   "model": "TC201L"
   }
  ],
  "TCW01W": [
@@ -340368,6 +340510,13 @@
    "brand": "realme",
    "name": "realme P4s 5G",
    "model": "RMX5125"
+  }
+ ],
+ "RE6810": [
+  {
+   "brand": "realme",
+   "name": "realme P4s Lite",
+   "model": "RMX5398"
   }
  ],
  "RE6450L1": [

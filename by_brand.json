@@ -79303,6 +79303,11 @@
  ],
  "Hosoton": [
   {
+   "device": "H-H101_EEA",
+   "name": "H-H101_EEA",
+   "model": "H-H101_EEA"
+  },
+  {
    "device": "H101",
    "name": "H101_EEA",
    "model": "H101"
@@ -91096,6 +91101,11 @@
    "model": "TM08E2W74"
   },
   {
+   "device": "TM08F6W74",
+   "name": "TM08F6W74",
+   "model": "TM08F6W74"
+  },
+  {
    "device": "Odin",
    "name": "TM101",
    "model": "TM101"
@@ -94738,6 +94748,11 @@
    "model": "INTEX AQUA S3"
   },
   {
+   "device": "Ace2",
+   "name": "Ace2",
+   "model": "Ace2"
+  },
+  {
    "device": "R1",
    "name": "Android TV",
    "model": "ATV R1"
@@ -97398,6 +97413,11 @@
    "device": "itel-C681LN",
    "name": "itel CITY 200s",
    "model": "itel C681LN"
+  },
+  {
+   "device": "itel-C672N",
+   "name": "itel CITY 300 5G",
+   "model": "itel C672N"
   },
   {
    "device": "itel-C671L",
@@ -124275,6 +124295,11 @@
    "model": "M1"
   },
   {
+   "device": "M18ProMax",
+   "name": "M18ProMax",
+   "model": "M18ProMax"
+  },
+  {
    "device": "M2",
    "name": "M2",
    "model": "M2"
@@ -148355,6 +148380,11 @@
    "model": "M19TE"
   },
   {
+   "device": "M80XE",
+   "name": "M80XE",
+   "model": "M80XE"
+  },
+  {
    "device": "M86X",
    "name": "M86X",
    "model": "M86X"
@@ -148604,6 +148634,11 @@
    "device": "ORCATAB_WT1_WT1Pro",
    "name": "ORCATAB_WT1_WT1Pro",
    "model": "ORCATAB_WT1_WT1Pro"
+  },
+  {
+   "device": "ORCATAB_WT3_Pro",
+   "name": "ORCATAB_WT3_Pro",
+   "model": "WT3 Pro"
   }
  ],
  "ORION": [
@@ -150220,6 +150255,11 @@
    "device": "OP68DD",
    "name": "OnePlus N6",
    "model": "CPH2955"
+  },
+  {
+   "device": "OP68FB",
+   "name": "OnePlus N6 Lite",
+   "model": "CPH2993"
   },
   {
    "device": "OP68DD",
@@ -162247,6 +162287,13 @@
    "model": "S70PCI"
   }
  ],
+ "Partner_Tech": [
+  {
+   "device": "Sofia5",
+   "name": "Sofia5",
+   "model": "Sofia5"
+  }
+ ],
  "Pastigio": [
   {
    "device": "M10T2_P15",
@@ -174211,6 +174258,11 @@
    "model": "AF13Air_EEA"
   },
   {
+   "device": "AF13Air_US",
+   "name": "AF13Air_US",
+   "model": "AF13Air_US"
+  },
+  {
    "device": "AF13_EEA",
    "name": "AF13_EEA",
    "model": "AF13_EEA"
@@ -180205,6 +180257,11 @@
    "device": "ZEUS_2_ELITE",
    "name": "ZEUS_2_ELITE_EEA",
    "model": "ZEUS 2 ELITE"
+  },
+  {
+   "device": "ZEUS_HALO",
+   "name": "ZEUS_HALO_EEA",
+   "model": "ZEUS HALO"
   }
  ],
  "SPC Mobile": [
@@ -202301,6 +202358,21 @@
    "model": "SH-M34"
   },
   {
+   "device": "SX6",
+   "name": "AQUOS wish6",
+   "model": "A603SH"
+  },
+  {
+   "device": "SX6",
+   "name": "AQUOS wish6",
+   "model": "A604SH"
+  },
+  {
+   "device": "SX6",
+   "name": "AQUOS wish6",
+   "model": "SH-M36"
+  },
+  {
    "device": "SG801SH",
    "name": "AQUOS zero",
    "model": "801SH"
@@ -216343,6 +216415,36 @@
    "device": "Swing_TMO",
    "name": "TCL NXTPAPER 70 Pro",
    "model": "T807W"
+  },
+  {
+   "device": "Avatar_Pro",
+   "name": "TCL P80",
+   "model": "T853K"
+  },
+  {
+   "device": "Avatar_Pro",
+   "name": "TCL P80",
+   "model": "T853P"
+  },
+  {
+   "device": "Avatar_Pro_NP",
+   "name": "TCL P80 Pro",
+   "model": "T852K"
+  },
+  {
+   "device": "Avatar_Pro_NP",
+   "name": "TCL P80 Pro",
+   "model": "T852P"
+  },
+  {
+   "device": "Avatar_Ultra_NP",
+   "name": "TCL P80 Ultra",
+   "model": "T952K"
+  },
+  {
+   "device": "Avatar_Ultra_NP",
+   "name": "TCL P80 Ultra",
+   "model": "T952P"
   },
   {
    "device": "T1",
@@ -238475,6 +238577,11 @@
    "device": "VILLAON-V654L",
    "name": "V50s",
    "model": "VILLAON V654L"
+  },
+  {
+   "device": "VILLAON-V655L",
+   "name": "V60",
+   "model": "VILLAON V655L"
   },
   {
    "device": "VILLAON-V671N",
@@ -266005,6 +266112,11 @@
    "model": "HC20"
   },
   {
+   "device": "TCW01L",
+   "name": "HC201",
+   "model": "HC201L"
+  },
+  {
    "device": "TC27",
    "name": "HC25",
    "model": "HC25"
@@ -274173,6 +274285,11 @@
    "device": "RE6472L1",
    "name": "realme P4s 5G",
    "model": "RMX5125"
+  },
+  {
+   "device": "RE6810",
+   "name": "realme P4s Lite",
+   "model": "RMX5398"
   },
   {
    "device": "RE6488",

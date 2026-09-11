@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-10
+Last sync is 2026-09-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15311,6 +15311,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Horion|M6AProV2|M6AProV2|M6AProV2|
 |HorusVision|FieldHub1_0_EEA|FieldHub1_0|FieldHub1_0|
 |HorusVision|FieldHub1_0_ROW|FieldHub1_0|FieldHub1_0|
+|Hosoton|H-H101_EEA|H-H101_EEA|H-H101_EEA|
 |Hosoton|H101_EEA|H101|H101|
 |Hot Pepper|15 Pro Max|15_Pro_Max|15 Pro Max|
 |Hot Pepper|18 Pro|18_Pro|18 Pro|
@@ -17642,6 +17643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRIS_OHYAMA|TM083|TM083|TM083|
 |IRIS_OHYAMA|TM083|TM083|TM083M4|
 |IRIS_OHYAMA|TM08E2W74|TM08E2W74|TM08E2W74|
+|IRIS_OHYAMA|TM08F6W74|TM08F6W74|TM08F6W74|
 |IRIS_OHYAMA|TM101|Odin|TM101|
 |IRIS_OHYAMA|TM101|Odin2|TM101|
 |IRIS_OHYAMA|TM102|TM102|TM102M4|
@@ -18348,6 +18350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Intex|AQUA ZENITH|INTEX_AQUA_ZENITH|INTEX AQUA ZENITH|
 |Intex|AQUA_4.0_4G|INTEX_AQUA_4_4G|INTEX_AQUA_4.0_4G|
 |Intex|AQUA_S3|INTEX_AQUA_S3|INTEX AQUA S3|
+|Intex|Ace2|Ace2|Ace2|
 |Intex|Android TV|R1|ATV R1|
 |Intex|Aqua 4.0 3G|INTEX_AQUA_4_3G|INTEX AQUA 4.0 3G|
 |Intex|Aqua 4G mini|INTEX_AQUA_4G_MINI|INTEX AQUA 4G MINI|
@@ -18876,6 +18879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel CITY 200+|itel-C672L|itel C672L|
 |Itel|itel CITY 200/200s|itel-C681LN|itel C681LN|
 |Itel|itel CITY 200s|itel-C681LN|itel C681LN|
+|Itel|itel CITY 300 5G|itel-C672N|itel C672N|
 |Itel|itel City100|itel-C671L|itel C671L|
 |Itel|itel KidPad 1|Itel-W7001|Itel W7001|
 |Itel|itel L5007A|itel-L5007A|itel L5007A|
@@ -24127,6 +24131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-Horse|C68|C68|C68|
 |M-Horse|M-HORSE|Pure1|Pure1|
 |M-Horse|M1|M1|M1|
+|M-Horse|M18ProMax|M18ProMax|M18ProMax|
 |M-Horse|M2|M2|M2|
 |M-Horse|M2S|M2S|M2S|
 |M-Horse|M3|M3|M3|
@@ -28779,6 +28784,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|M185QE|M185QE|M185QE|
 |ONERugged|M195T|M195T|M195T|
 |ONERugged|M19TE|M19TE|M19TE|
+|ONERugged|M80XE|M80XE|M80XE|
 |ONERugged|M86X|M86X|M86X|
 |ONERugged|M86XE|M86XE|M86XE|
 |ONERugged|M87X|M87X|M87X|
@@ -28826,6 +28832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ORCA|ORCA 4K Android TV|kenton|ORCA 4K Android TV|
 |ORCATAB|ORCATAB_WT1_WT1Pro|ORCATAB_WT1_WT1Pro|ORCATAB WT1_WT1 Pro|
 |ORCATAB|ORCATAB_WT1_WT1Pro|ORCATAB_WT1_WT1Pro|ORCATAB_WT1_WT1Pro|
+|ORCATAB|ORCATAB_WT3_Pro|ORCATAB_WT3_Pro|WT3 Pro|
 |ORION|Doshisha 2K Smart TV|umeda|Doshisha 2K Smart TV|
 |ORION|ORION|elliniko|ORION SMART TV|
 |ORION|ORION|templeton|ORION SMART TV|
@@ -29134,6 +29141,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Ace 6 至尊版|OP64D7L1|PMB110|
 |OnePlus|OnePlus Ace 竞速版|OP5911|PGZ110|
 |OnePlus|OnePlus N6|OP68DD|CPH2955|
+|OnePlus|OnePlus N6 Lite|OP68FB|CPH2993|
 |OnePlus|OnePlus N6x|OP68DD|CPH2971|
 |OnePlus|OnePlus Nord|Nord|AC2001|
 |OnePlus|OnePlus Nord|Nord|AC2003|
@@ -31499,6 +31507,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Partner|PartnerTV-Box|uzw4054ptn|PartnerTV-Box|
 |Partner|Partner_Evolution|Partner_Evolution|Partner Evolution|
 |Partner|S70PCI|Batman|S70PCI|
+|Partner_Tech|Sofia5|Sofia5|Sofia5|
 |Pastigio|P15|M10T2_P15|P15|
 |Pastigio|SMY_17_M07R6_EEA|SMY-17-M07R6|SMY-17-M07R6|
 |Pavapro|PavaPro7bk|Pavapro7bk|Pavapro7bk|
@@ -33819,6 +33828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|AF13|AF13|AF13|
 |RebotAi|AF13Air|AF13Air|AF13Air|
 |RebotAi|AF13Air_EEA|AF13Air_EEA|AF13Air_EEA|
+|RebotAi|AF13Air_US|AF13Air_US|AF13Air_US|
 |RebotAi|AF13_EEA|AF13_EEA|AF13_EEA|
 |RebotAi|AF8_EEA|AF8_EEA|AF8_EEA|
 |RebotAi|AF8_ROW|AF8_ROW|AF8_ROW|
@@ -34965,6 +34975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC|ZEUS 2|ZEUS_2|ZEUS 2|
 |SPC|ZEUS 2 PRO|ZEUS_2_PRO|ZEUS 2 PRO|
 |SPC|ZEUS_2_ELITE_EEA|ZEUS_2_ELITE|ZEUS 2 ELITE|
+|SPC|ZEUS_HALO_EEA|ZEUS_HALO|ZEUS HALO|
 |SPC Mobile|APOLO|APOLO|APOLO|
 |SPC Mobile|GRAVITY-2-MAX|GRAVITY-2-MAX|GRAVITY-2-MAX|
 |SPC Mobile|GRAVITY2-4G|GRAVITY2-4G|GRAVITY2-4G|
@@ -39347,6 +39358,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS wish5|SX5|A502SH|
 |Sharp|AQUOS wish5|SX5|SH-M32|
 |Sharp|AQUOS wish5s|SX5|SH-M34|
+|Sharp|AQUOS wish6|SX6|A603SH|
+|Sharp|AQUOS wish6|SX6|A604SH|
+|Sharp|AQUOS wish6|SX6|SH-M36|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
@@ -42089,6 +42103,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL NXTPAPER 70 Pro|Frida|T807E|
 |TCL|TCL NXTPAPER 70 Pro|Swing_NA_OM|T807M|
 |TCL|TCL NXTPAPER 70 Pro|Swing_TMO|T807W|
+|TCL|TCL P80|Avatar_Pro|T853K|
+|TCL|TCL P80|Avatar_Pro|T853P|
+|TCL|TCL P80 Pro|Avatar_Pro_NP|T852K|
+|TCL|TCL P80 Pro|Avatar_Pro_NP|T852P|
+|TCL|TCL P80 Ultra|Avatar_Ultra_NP|T952K|
+|TCL|TCL P80 Ultra|Avatar_Ultra_NP|T952P|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
 |TCL|TCL Stylus 5G|Challenger_CS|T779W|
@@ -46385,6 +46405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VILLAON|V40s|VILLAON-V40s|VILLAON V651L|
 |VILLAON|V50s|VILLAON-V653L|VILLAON V653L|
 |VILLAON|V50s|VILLAON-V654L|VILLAON V654L|
+|VILLAON|V60|VILLAON-V655L|VILLAON V655L|
 |VILLAON|VILLAON Aeon One 5G|VILLAON-V671N|VILLAON V671N|
 |VILLAON|VILLAON F30|VILLAON-V671N|VILLAON V671N|
 |VILLAON|VILLAON Hyper 100|VILLAON-V6752L|VILLAON V6752L|
@@ -51765,6 +51786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET65|ET65|ET65|
 |Zebra|FR55|TC58E|FR55|
 |Zebra|HC20|TC22|HC20|
+|Zebra|HC201|TCW01L|HC201L|
 |Zebra|HC25|TC27|HC25|
 |Zebra|HC50|TC22|HC50|
 |Zebra|HC50|TC22|TC22|
@@ -53323,6 +53345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme P4 Power 5G|RE646FL1|RMX5107|
 |realme|realme P4 Pro 5G|RE644BL1|RMX5116|
 |realme|realme P4s 5G|RE6472L1|RMX5125|
+|realme|realme P4s Lite|RE6810|RMX5398|
 |realme|realme P4x|RE6488|RMX5367|
 |realme|realme P4x 5G|RE6450L1|RMX5108|
 |realme|realme Pad 2|RE5C6EL1|RMP2204|

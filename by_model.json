@@ -114069,6 +114069,13 @@
    "device": "FieldHub1_0"
   }
  ],
+ "H-H101_EEA": [
+  {
+   "brand": "Hosoton",
+   "name": "H-H101_EEA",
+   "device": "H-H101_EEA"
+  }
+ ],
  "H101": [
   {
    "brand": "Hosoton",
@@ -129614,6 +129621,13 @@
    "device": "TM08E2W74"
   }
  ],
+ "TM08F6W74": [
+  {
+   "brand": "IRIS_OHYAMA",
+   "name": "TM08F6W74",
+   "device": "TM08F6W74"
+  }
+ ],
  "TM101": [
   {
    "brand": "IRIS_OHYAMA",
@@ -134128,6 +134142,13 @@
    "device": "INTEX_AQUA_S3"
   }
  ],
+ "Ace2": [
+  {
+   "brand": "Intex",
+   "name": "Ace2",
+   "device": "Ace2"
+  }
+ ],
  "INTEX AQUA 4.0 3G": [
   {
    "brand": "Intex",
@@ -137799,6 +137820,13 @@
    "brand": "Itel",
    "name": "itel CITY 200s",
    "device": "itel-C681LN"
+  }
+ ],
+ "itel C672N": [
+  {
+   "brand": "Itel",
+   "name": "itel CITY 300 5G",
+   "device": "itel-C672N"
   }
  ],
  "Itel W7001": [
@@ -171142,6 +171170,13 @@
    "device": "Pure1"
   }
  ],
+ "M18ProMax": [
+  {
+   "brand": "M-Horse",
+   "name": "M18ProMax",
+   "device": "M18ProMax"
+  }
+ ],
  "M2S": [
   {
    "brand": "M-Horse",
@@ -200187,6 +200222,13 @@
    "device": "M19TE"
   }
  ],
+ "M80XE": [
+  {
+   "brand": "ONERugged",
+   "name": "M80XE",
+   "device": "M80XE"
+  }
+ ],
  "M86X": [
   {
    "brand": "ONERugged",
@@ -200477,6 +200519,13 @@
    "brand": "ORCATAB",
    "name": "ORCATAB_WT1_WT1Pro",
    "device": "ORCATAB_WT1_WT1Pro"
+  }
+ ],
+ "WT3 Pro": [
+  {
+   "brand": "ORCATAB",
+   "name": "ORCATAB_WT3_Pro",
+   "device": "ORCATAB_WT3_Pro"
   }
  ],
  "Doshisha 2K Smart TV": [
@@ -202233,6 +202282,13 @@
    "brand": "OnePlus",
    "name": "OnePlus N6",
    "device": "OP68DD"
+  }
+ ],
+ "CPH2993": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus N6 Lite",
+   "device": "OP68FB"
   }
  ],
  "CPH2971": [
@@ -217186,6 +217242,13 @@
    "device": "Partner_Evolution"
   }
  ],
+ "Sofia5": [
+  {
+   "brand": "Partner_Tech",
+   "name": "Sofia5",
+   "device": "Sofia5"
+  }
+ ],
  "P15": [
   {
    "brand": "Pastigio",
@@ -231128,6 +231191,13 @@
    "device": "AF13Air_EEA"
   }
  ],
+ "AF13Air_US": [
+  {
+   "brand": "RebotAi",
+   "name": "AF13Air_US",
+   "device": "AF13Air_US"
+  }
+ ],
  "AF13_EEA": [
   {
    "brand": "RebotAi",
@@ -238044,6 +238114,13 @@
    "brand": "SPC",
    "name": "ZEUS_2_ELITE_EEA",
    "device": "ZEUS_2_ELITE"
+  }
+ ],
+ "ZEUS HALO": [
+  {
+   "brand": "SPC",
+   "name": "ZEUS_HALO_EEA",
+   "device": "ZEUS_HALO"
   }
  ],
  "APOLO": [
@@ -267762,6 +267839,27 @@
    "device": "SX5"
   }
  ],
+ "A603SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish6",
+   "device": "SX6"
+  }
+ ],
+ "A604SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish6",
+   "device": "SX6"
+  }
+ ],
+ "SH-M36": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish6",
+   "device": "SX6"
+  }
+ ],
  "801SH": [
   {
    "brand": "Sharp",
@@ -284585,6 +284683,48 @@
    "brand": "TCL",
    "name": "TCL NXTPAPER 70 Pro",
    "device": "Swing_TMO"
+  }
+ ],
+ "T853K": [
+  {
+   "brand": "TCL",
+   "name": "TCL P80",
+   "device": "Avatar_Pro"
+  }
+ ],
+ "T853P": [
+  {
+   "brand": "TCL",
+   "name": "TCL P80",
+   "device": "Avatar_Pro"
+  }
+ ],
+ "T852K": [
+  {
+   "brand": "TCL",
+   "name": "TCL P80 Pro",
+   "device": "Avatar_Pro_NP"
+  }
+ ],
+ "T852P": [
+  {
+   "brand": "TCL",
+   "name": "TCL P80 Pro",
+   "device": "Avatar_Pro_NP"
+  }
+ ],
+ "T952K": [
+  {
+   "brand": "TCL",
+   "name": "TCL P80 Ultra",
+   "device": "Avatar_Ultra_NP"
+  }
+ ],
+ "T952P": [
+  {
+   "brand": "TCL",
+   "name": "TCL P80 Ultra",
+   "device": "Avatar_Ultra_NP"
   }
  ],
  "T780H": [
@@ -311610,6 +311750,13 @@
    "brand": "VILLAON",
    "name": "V50s",
    "device": "VILLAON-V654L"
+  }
+ ],
+ "VILLAON V655L": [
+  {
+   "brand": "VILLAON",
+   "name": "V60",
+   "device": "VILLAON-V655L"
   }
  ],
  "VILLAON V671N": [
@@ -345662,6 +345809,13 @@
    "device": "TC22"
   }
  ],
+ "HC201L": [
+  {
+   "brand": "Zebra",
+   "name": "HC201",
+   "device": "TCW01L"
+  }
+ ],
  "HC25": [
   {
    "brand": "Zebra",
@@ -354723,6 +354877,13 @@
    "brand": "realme",
    "name": "realme P4s 5G",
    "device": "RE6472L1"
+  }
+ ],
+ "RMX5398": [
+  {
+   "brand": "realme",
+   "name": "realme P4s Lite",
+   "device": "RE6810"
   }
  ],
  "RMX5367": [
