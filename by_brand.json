@@ -19809,6 +19809,11 @@
    "model": "BPad T1"
   },
   {
+   "device": "BPad_T11",
+   "name": "BPad_T11",
+   "model": "BPad T11"
+  },
+  {
    "device": "CinePad_13",
    "name": "CinePad_13",
    "model": "CinePad_13"
@@ -122954,6 +122959,11 @@
    "model": "AERO"
   },
   {
+   "device": "Astral",
+   "name": "Astral",
+   "model": "Astral"
+  },
+  {
    "device": "BBOT50",
    "name": "B bot 50",
    "model": "B BOT 50"
@@ -123757,6 +123767,11 @@
    "device": "M_bot_52",
    "name": "M_ bot_ 52",
    "model": "M bot 52"
+  },
+  {
+   "device": "Mistral",
+   "name": "Mistral",
+   "model": "Mistral"
   },
   {
    "device": "ONIX",
@@ -125453,6 +125468,13 @@
    "model": "AMBK290471"
   }
  ],
+ "MICRODIGIT": [
+  {
+   "device": "EPIC_G_12",
+   "name": "EPIC_G_12",
+   "model": "EPIC_G_12"
+  }
+ ],
  "MIFONE": [
   {
    "device": "Model-6-Pro-Max-4G",
@@ -126042,6 +126064,11 @@
   }
  ],
  "MOBODO": [
+  {
+   "device": "MOBOE1",
+   "name": "MOBODO MOBO E1",
+   "model": "MOBOE1"
+  },
   {
    "device": "MOBOK2",
    "name": "MOBODO MOBO K2",
@@ -144645,6 +144672,11 @@
    "device": "lavasa",
    "name": "Nebula X1",
    "model": "D2351"
+  },
+  {
+   "device": "lavasa",
+   "name": "Nebula X1 Pro",
+   "model": "D2151"
   },
   {
    "device": "taihang",
@@ -174454,6 +174486,11 @@
    "device": "steppe",
    "name": "REDMI 17 5G",
    "model": "26062RN92I"
+  },
+  {
+   "device": "tornado",
+   "name": "REDMI 17C 5G",
+   "model": "2607FRNEAG"
   },
   {
    "device": "serenity",
@@ -229385,6 +229422,11 @@
    "model": "TECNO KN3"
   },
   {
+   "device": "TECNO-KN3s",
+   "name": "TECNO POP 20",
+   "model": "TECNO KN3"
+  },
+  {
    "device": "TECNO-KO2",
    "name": "TECNO POP 20C",
    "model": "TECNO KO2"
@@ -266112,11 +266154,6 @@
    "model": "HC20"
   },
   {
-   "device": "TCW01L",
-   "name": "HC201",
-   "model": "HC201L"
-  },
-  {
    "device": "TC27",
    "name": "HC25",
    "model": "HC25"
@@ -275095,6 +275132,16 @@
    "device": "SPECTRA_GO",
    "name": "SPECTRA GO",
    "model": "SPECTRA GO"
+  },
+  {
+   "device": "SPECTRA_PLAY",
+   "name": "SPECTRA PLAY",
+   "model": "SPECTRA PLAY"
+  },
+  {
+   "device": "SPECTRA_A2",
+   "name": "SPECTRA_A2",
+   "model": "SPECTRA A2"
   },
   {
    "device": "Spectra_J1",

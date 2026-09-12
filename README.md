@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-11
+Last sync is 2026-09-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3829,6 +3829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BNCF|BPad_GT|BPad_GT|BPad_GT|
 |BNCF|BPad_Mini_Ultra|BPad_Mini_Ultra|BPad_Mini_Ultra|
 |BNCF|BPad_T1|BPad_T1|BPad T1|
+|BNCF|BPad_T11|BPad_T11|BPad T11|
 |BNCF|CinePad_13|CinePad_13|CinePad_13|
 |BNE(TW)|4KS1|GCU5AC0D|4KS1|
 |BOBESPONJA|BOBTAB|BOBTAB|BOBTAB|
@@ -23868,6 +23869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|l409|LOGIC_L40|LOGIC L40|
 |Logic_Controls|Elite_9550-A|Elite_9550-A|Elite_9550-A|
 |Logicom|AERO|AERO_EEA|AERO|
+|Logicom|Astral|Astral|Astral|
 |Logicom|B bot 50|BBOT50|B BOT 50|
 |Logicom|B bot 550|BBOT550|B BOT 550|
 |Logicom|C bot tab 100|CBotTab100|C Bot Tab 100|
@@ -24029,6 +24031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|M bot tab 101|MBOTTAB101|M BOT TAB 101|
 |Logicom|M bot tab 70|M_BOT_TAB_70|M BOT TAB 70|
 |Logicom|M_ bot_ 52|M_bot_52|M bot 52|
+|Logicom|Mistral|Mistral|Mistral|
 |Logicom|ONIX|ONIX|ONIX|
 |Logicom|ORION E1|ORION_E1|ORION E1|
 |Logicom|ORION E1 PLUS|ORION_E1_PLUS|ORION E1 PLUS|
@@ -24349,6 +24352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MGS|MGS|tennoji|2K MGS Google TV|
 |MHL Mobile Company|TRECFONE_A21S|TRECFONE_A21S|TRECFONE_A21S|
 |MIAPRODUCT|AMBK290471|AMBK290471|AMBK290471|
+|MICRODIGIT|EPIC_G_12|EPIC_G_12|EPIC_G_12|
 |MIFONE|Model 6 Pro Max 4G|Model-6-Pro-Max-4G|Model-6-Pro-Max-4G|
 |MIKITECH|MK-ES300|MK-ES300|MK-ES300|
 |MIKU|TAB63A|TAB63A|TAB63A|
@@ -24459,6 +24463,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MNC NOW|CYBORG001|HP40A3|CYBORG001|
 |MOBILE KINGDOM|GENESIS_126|GENESIS_126|GENESIS_126|
 |MOBO|MB_530|MB_530|MB_530|
+|MOBODO|MOBODO MOBO E1|MOBOE1|MOBOE1|
 |MOBODO|MOBODO MOBO K2|MOBOK2|MOBOK2|
 |MOBULAA|K1|K1|K1|
 |MOBULAA|K6|K6|K6|
@@ -28073,6 +28078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nebula|D2241|DM8260|D2241|
 |Nebula|D2421|DM8261|D2421|
 |Nebula|Nebula X1|lavasa|D2351|
+|Nebula|Nebula X1 Pro|lavasa|D2151|
 |Nebula|Nebula_Capsule_3|taihang|D2425|
 |Nebula|Nebula_Capsule_3_Laser|matheran|D2426|
 |Nebula|Nebula_Mars_2_V2|taihang|D2325|
@@ -33866,6 +33872,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI 15C 5G|tornado|2508CRN2BI|
 |Redmi|REDMI 17 5G|steppe|26062RN92G|
 |Redmi|REDMI 17 5G|steppe|26062RN92I|
+|Redmi|REDMI 17C 5G|tornado|2607FRNEAG|
 |Redmi|REDMI A7|serenity|26020RNB4A|
 |Redmi|REDMI A7|serenity|26020RNB4I|
 |Redmi|REDMI A7|serenity|26020RNB4L|
@@ -44649,6 +44656,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POP 10|TECNO-KM4s|TECNO KM4s|
 |Tecno|TECNO POP 2 Air|TECNO-SC7S|TECNO SC7S|
 |Tecno|TECNO POP 20|TECNO-KN3|TECNO KN3|
+|Tecno|TECNO POP 20|TECNO-KN3s|TECNO KN3|
 |Tecno|TECNO POP 20C|TECNO-KO2|TECNO KO2|
 |Tecno|TECNO POP 2F|TECNO-B1g|TECNO B1g|
 |Tecno|TECNO POP 2X Plus|TECNO-RB8S|TECNO RB8S|
@@ -51786,7 +51794,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET65|ET65|ET65|
 |Zebra|FR55|TC58E|FR55|
 |Zebra|HC20|TC22|HC20|
-|Zebra|HC201|TCW01L|HC201L|
 |Zebra|HC25|TC27|HC25|
 |Zebra|HC50|TC22|HC50|
 |Zebra|HC50|TC22|TC22|
@@ -53501,6 +53508,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |snowa|Smart TV|dangni|AI PONT|
 |solanamobile|Seeker|seeker|Seeker|
 |spectramobile|SPECTRA GO|SPECTRA_GO|SPECTRA GO|
+|spectramobile|SPECTRA PLAY|SPECTRA_PLAY|SPECTRA PLAY|
+|spectramobile|SPECTRA_A2|SPECTRA_A2|SPECTRA A2|
 |spectramobile|Spectra J1|Spectra_J1|Spectra J1|
 |spectramobile|Spectra J1 PRO|Spectra_J1P|Spectra J1 PRO|
 |spectramobile|Spectra J2 Pro|Spectra_J2_Pro|Spectra_J2_Pro|

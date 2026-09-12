@@ -41402,6 +41402,13 @@
    "model": "BPad T1"
   }
  ],
+ "BPad_T11": [
+  {
+   "brand": "BNCF",
+   "name": "BPad_T11",
+   "model": "BPad T11"
+  }
+ ],
  "CinePad_13": [
   {
    "brand": "BNCF",
@@ -168330,6 +168337,13 @@
    "model": "AERO"
   }
  ],
+ "Astral": [
+  {
+   "brand": "Logicom",
+   "name": "Astral",
+   "model": "Astral"
+  }
+ ],
  "BBOT50": [
   {
    "brand": "Logicom",
@@ -169429,6 +169443,13 @@
    "brand": "Logicom",
    "name": "M_ bot_ 52",
    "model": "M bot 52"
+  }
+ ],
+ "Mistral": [
+  {
+   "brand": "Logicom",
+   "name": "Mistral",
+   "model": "Mistral"
   }
  ],
  "ONIX": [
@@ -171471,6 +171492,13 @@
    "model": "AMBK290471"
   }
  ],
+ "EPIC_G_12": [
+  {
+   "brand": "MICRODIGIT",
+   "name": "EPIC_G_12",
+   "model": "EPIC_G_12"
+  }
+ ],
  "Model-6-Pro-Max-4G": [
   {
    "brand": "MIFONE",
@@ -172124,6 +172152,13 @@
    "brand": "MOBO",
    "name": "MB_530",
    "model": "MB_530"
+  }
+ ],
+ "MOBOE1": [
+  {
+   "brand": "MOBODO",
+   "name": "MOBODO MOBO E1",
+   "model": "MOBOE1"
   }
  ],
  "MOBOK2": [
@@ -194074,6 +194109,11 @@
    "brand": "Nebula",
    "name": "Nebula X1",
    "model": "D2351"
+  },
+  {
+   "brand": "Nebula",
+   "name": "Nebula X1 Pro",
+   "model": "D2151"
   }
  ],
  "CJU": [
@@ -210946,6 +210986,11 @@
    "brand": "Redmi",
    "name": "REDMI 15C 5G",
    "model": "2508CRN2BI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI 17C 5G",
+   "model": "2607FRNEAG"
   },
   {
    "brand": "Redmi",
@@ -290962,6 +291007,13 @@
    "model": "TECNO KN3"
   }
  ],
+ "TECNO-KN3s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 20",
+   "model": "TECNO KN3"
+  }
+ ],
  "TECNO-KO2": [
   {
    "brand": "Tecno",
@@ -331587,18 +331639,6 @@
    "model": "TC22"
   }
  ],
- "TCW01L": [
-  {
-   "brand": "Zebra",
-   "name": "HC201",
-   "model": "HC201L"
-  },
-  {
-   "brand": "Zebra",
-   "name": "TC201",
-   "model": "TC201L"
-  }
- ],
  "TC27": [
   {
    "brand": "Zebra",
@@ -331827,6 +331867,13 @@
    "brand": "Zebra",
    "name": "TC20",
    "model": "TC20"
+  }
+ ],
+ "TCW01L": [
+  {
+   "brand": "Zebra",
+   "name": "TC201",
+   "model": "TC201L"
   }
  ],
  "TCW01W": [
@@ -341386,6 +341433,20 @@
    "brand": "spectramobile",
    "name": "SPECTRA GO",
    "model": "SPECTRA GO"
+  }
+ ],
+ "SPECTRA_PLAY": [
+  {
+   "brand": "spectramobile",
+   "name": "SPECTRA PLAY",
+   "model": "SPECTRA PLAY"
+  }
+ ],
+ "SPECTRA_A2": [
+  {
+   "brand": "spectramobile",
+   "name": "SPECTRA_A2",
+   "model": "SPECTRA A2"
   }
  ],
  "Spectra_J1": [

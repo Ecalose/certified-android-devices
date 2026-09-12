@@ -38067,6 +38067,13 @@
    "model": "BPad T1"
   }
  ],
+ "BPad_T11": [
+  {
+   "brand": "BNCF",
+   "device": "BPad_T11",
+   "model": "BPad T11"
+  }
+ ],
  "CinePad_13": [
   {
    "brand": "BNCF",
@@ -166819,6 +166826,13 @@
    "model": "AERO"
   }
  ],
+ "Astral": [
+  {
+   "brand": "Logicom",
+   "device": "Astral",
+   "model": "Astral"
+  }
+ ],
  "B bot 50": [
   {
    "brand": "Logicom",
@@ -167931,6 +167945,13 @@
    "brand": "Logicom",
    "device": "M_bot_52",
    "model": "M bot 52"
+  }
+ ],
+ "Mistral": [
+  {
+   "brand": "Logicom",
+   "device": "Mistral",
+   "model": "Mistral"
   }
  ],
  "ONIX": [
@@ -169986,6 +170007,13 @@
    "model": "AMBK290471"
   }
  ],
+ "EPIC_G_12": [
+  {
+   "brand": "MICRODIGIT",
+   "device": "EPIC_G_12",
+   "model": "EPIC_G_12"
+  }
+ ],
  "Model 6 Pro Max 4G": [
   {
    "brand": "MIFONE",
@@ -170655,6 +170683,13 @@
    "brand": "MOBO",
    "device": "MB_530",
    "model": "MB_530"
+  }
+ ],
+ "MOBODO MOBO E1": [
+  {
+   "brand": "MOBODO",
+   "device": "MOBOE1",
+   "model": "MOBOE1"
   }
  ],
  "MOBODO MOBO K2": [
@@ -192304,6 +192339,13 @@
    "brand": "Nebula",
    "device": "lavasa",
    "model": "D2351"
+  }
+ ],
+ "Nebula X1 Pro": [
+  {
+   "brand": "Nebula",
+   "device": "lavasa",
+   "model": "D2151"
   }
  ],
  "Nebula_Capsule_3": [
@@ -227934,6 +227976,13 @@
    "brand": "Redmi",
    "device": "steppe",
    "model": "26062RN92I"
+  }
+ ],
+ "REDMI 17C 5G": [
+  {
+   "brand": "Redmi",
+   "device": "tornado",
+   "model": "2607FRNEAG"
   }
  ],
  "REDMI A7": [
@@ -290072,6 +290121,11 @@
    "brand": "Tecno",
    "device": "TECNO-KN3",
    "model": "TECNO KN3"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KN3s",
+   "model": "TECNO KN3"
   }
  ],
  "TECNO POP 20C": [
@@ -331921,13 +331975,6 @@
    "model": "HC20"
   }
  ],
- "HC201": [
-  {
-   "brand": "Zebra",
-   "device": "TCW01L",
-   "model": "HC201L"
-  }
- ],
  "HC25": [
   {
    "brand": "Zebra",
@@ -342185,6 +342232,20 @@
    "brand": "spectramobile",
    "device": "SPECTRA_GO",
    "model": "SPECTRA GO"
+  }
+ ],
+ "SPECTRA PLAY": [
+  {
+   "brand": "spectramobile",
+   "device": "SPECTRA_PLAY",
+   "model": "SPECTRA PLAY"
+  }
+ ],
+ "SPECTRA_A2": [
+  {
+   "brand": "spectramobile",
+   "device": "SPECTRA_A2",
+   "model": "SPECTRA A2"
   }
  ],
  "Spectra J1": [
